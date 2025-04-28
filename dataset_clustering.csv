@@ -1,0 +1,1320 @@
+brand_name,Name,Price,RAM,OS,storage,Battery_cap,has_fast_charging,has_fingerprints,has_nfc,has_5g,processor_brand,num_core,primery_rear_camera,Num_Rear_Cameras,primery_front_camera,num_front_camera,display_size(inch),refresh_rate(hz),display_types,Cluster
+vivo,vivo v50,34999,8.0,android,128.0,6000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,50.0,1,6.77,120.0,amoled display,2
+realme,realme p3 pro,21999,8.0,android,128.0,6000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.83,120.0,amoled display,1
+realme,realme 14 pro plus,27999,8.0,android,128.0,6000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.83,120.0,oled display,2
+vivo,vivo t3 pro,22999,8.0,android,128.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.77,120.0,amoled display,2
+motorola,motorola edge 50 fusion,20299,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,32.0,1,6.67,144.0,amoled display,2
+moto,moto g85,18445,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,32.0,1,6.67,120.0,amoled display,2
+oneplus,oneplus 13r,42998,12.0,android,256.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,amoled display,2
+poco,poco x7 pro,27999,8.0,android,256.0,6550,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,20.0,1,6.67,120.0,amoled display,2
+oneplus,oneplus nord ce 4 5g,22990,8.0,android,128.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.7,120.0,amoled display,2
+vivo,vivo v40,36490,8.0,android,128.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+samsung,samsung galaxy m35 5g,14999,6.0,android,128.0,6000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,13.0,1,6.6,120.0,amoled display,0
+oneplus,oneplus 13,69998,12.0,android,256.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.82,120.0,amoled display,2
+iqoo,iqoo 13 5g,54999,12.0,android,256.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.82,144.0,amoled display,2
+xiaomi,xiaomi redmi note 14 pro+ 5g,30999,8.0,android,128.0,6200,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,20.0,1,6.67,120.0,amoled display,2
+oneplus,oneplus nord 4,27699,8.0,android,128.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,16.0,1,6.74,120.0,amoled display,2
+samsung,samsung galaxy f06 5g,9499,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.7,60.0,lcd display,1
+samsung,samsung galaxy a35 5g,24959,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,13.0,1,6.6,120.0,amoled display,2
+xiaomi,xiaomi redmi note 14 5g,18999,6.0,android,128.0,5110,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,20.0,1,6.67,120.0,amoled display,0
+motorola,motorola edge 50 pro 5g,30290,8.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,144.0,amoled display,2
+vivo,vivo x200 pro,94999,16.0,android,512.0,6000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.78,120.0,amoled display,2
+vivo,vivo v40e,26999,8.0,android,128.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,50.0,1,6.77,120.0,amoled display,2
+samsung,samsung galaxy s25,80999,12.0,android,256.0,4000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,12.0,1,6.2,120.0,amoled display,2
+iqoo,iqoo z9s pro,22999,8.0,android,128.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.77,120.0,amoled display,2
+iqoo,iqoo z9s,19999,8.0,android,128.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.77,120.0,amoled display,1
+motorola,motorola edge 50 neo,21167,8.0,android,256.0,4310,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.4,120.0,amoled display,2
+vivo,vivo t3x,11875,4.0,android,128.0,6000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+vivo,vivo t3 ultra,29999,8.0,android,128.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+Other,cmf phone 1,13640,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,1
+samsung,samsung galaxy a55 5g,33350,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,32.0,1,6.6,120.0,amoled display,2
+realme,realme 14x,14099,6.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,8.0,1,6.67,120.0,lcd display,1
+samsung,samsung galaxy a16 5g,16999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,13.0,1,6.7,90.0,amoled display,0
+realme,realme p1,13699,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,1
+realme,realme gt 6t,29440,8.0,android,128.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,32.0,1,6.78,120.0,amoled display,2
+realme,realme p2 pro,18880,8.0,android,128.0,5200,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,32.0,1,6.7,120.0,oled display,2
+vivo,vivo t3,17244,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,1
+iqoo,iqoo z9x,11999,4.0,android,128.0,6000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+moto,moto g45 5g,10638,4.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,16.0,1,6.5,120.0,lcd display,1
+oppo,oppo reno13,31999,8.0,android,128.0,5600,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,50.0,1,6.59,120.0,amoled display,2
+realme,realme gt 7 pro,59999,12.0,android,256.0,5800,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,amoled display,2
+poco,poco m7 pro,14299,6.0,android,128.0,5110,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,20.0,1,6.67,120.0,amoled display,1
+samsung,samsung galaxy s23 fe 5g,36990,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,10.0,1,6.4,120.0,amoled display,0
+realme,realme 14 pro,21496,8.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.77,120.0,oled display,1
+xiaomi,xiaomi redmi note 14 pro 5g,24965,8.0,android,128.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,20.0,1,6.67,120.0,amoled display,2
+xiaomi,xiaomi redmi 14c,9999,4.0,android,64.0,5160,Yes,Yes,No,Yes,snapdragon,8.0,50.0,1,8.0,1,6.88,120.0,lcd display,1
+realme,realme narzo 70 turbo,15999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,oled display,1
+vivo,vivo y29 5g,13999,4.0,android,128.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.68,120.0,lcd display,1
+xiaomi,xiaomi redmi 13 5g,11964,6.0,android,128.0,5030,Yes,Yes,No,Yes,snapdragon,8.0,108.0,2,13.0,1,6.79,120.0,lcd display,1
+vivo,vivo v40 pro,49999,8.0,android,256.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+Other,nothing phone 2a,20077,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,32.0,1,6.7,120.0,amoled display,2
+moto,moto g64,14118,8.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.5,120.0,lcd display,1
+poco,poco f6,26999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,20.0,1,6.67,120.0,amoled display,2
+poco,poco x7,19999,8.0,android,128.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,20.0,1,6.67,120.0,amoled display,2
+vivo,vivo x200,65999,12.0,android,256.0,5800,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.67,120.0,amoled display,2
+oneplus,oneplus nord ce 4 lite 5g,17998,8.0,android,128.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,1
+vivo,vivo y300,21999,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,32.0,1,6.67,120.0,amoled display,2
+oppo,oppo reno13 pro,49999,12.0,android,256.0,5800,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,50.0,1,6.83,120.0,amoled display,2
+xiaomi,xiaomi redmi note 13,15990,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+honor,honor 200,27999,8.0,android,256.0,5200,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+oppo,oppo f27 pro plus,25999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,8.0,1,6.7,120.0,amoled display,1
+motorola,motorola edge 50,23900,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+iqoo,iqoo neo 9 pro,33999,8.0,android,256.0,5160,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.78,144.0,amoled display,2
+poco,poco x6 pro,19998,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,2
+samsung,samsung galaxy f55 5g,20640,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+vivo,vivo v30,26633,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+samsung,samsung galaxy s23 5g,74999,8.0,android,128.0,3900,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,12.0,1,6.1,120.0,amoled display,0
+oneplus,oneplus 12r,39180,8.0,android,128.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,oled display,2
+poco,poco x6 neo,11999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,2,16.0,1,6.67,120.0,amoled display,2
+oppo,oppo k12x,12824,6.0,android,128.0,5100,Yes,Yes,No,Yes,mediatek,8.0,32.0,2,8.0,1,6.67,120.0,lcd display,1
+realme,realme gt 6,34950,8.0,android,256.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.78,120.0,amoled display,2
+realme,realme p3x,13999,6.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+infinix,infinix gt 20 pro 5g,22999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,32.0,1,6.78,144.0,amoled display,2
+infinix,infinix note 40 pro 5g,18050,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,32.0,1,6.78,120.0,amoled display,2
+samsung,samsung galaxy f15,11697,4.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,13.0,1,6.5,90.0,amoled display,0
+realme,realme 13 pro plus,25400,8.0,android,256.0,5200,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,oled display,2
+motorola,motorola edge 50 ultra,48489,12.0,android,512.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,144.0,amoled display,2
+iqoo,iqoo 12 5g,45995,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,144.0,amoled display,2
+moto,moto g35,10349,4.0,android,128.0,5000,Yes,Yes,No,Yes,unisoc,8.0,50.0,2,16.0,1,6.72,120.0,lcd display,1
+oneplus,oneplus nord ce 3 lite 5g,15685,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,108.0,3,16.0,1,6.72,120.0,lcd display,2
+xiaomi,xiaomi redmi a4,8499,4.0,android,64.0,5160,Yes,Yes,No,Yes,snapdragon,8.0,50.0,1,5.0,1,6.88,120.0,lcd display,1
+oppo,oppo find x8,61999,12.0,android,256.0,5630,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.59,120.0,oled display,2
+iqoo,iqoo z9,18499,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,1
+honor,honor 200 pro,39998,12.0,android,512.0,5200,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.78,120.0,oled display,2
+samsung,samsung galaxy s25 plus,99999,12.0,android,256.0,4900,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,12.0,1,6.7,120.0,amoled display,2
+realme,realme narzo 70 pro,17484,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.67,120.0,amoled display,2
+realme,realme p1 pro 5g,18999,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.7,120.0,oled display,1
+moto,moto g05,7390,4.0,android,64.0,5200,Yes,Yes,No,No,mediatek,8.0,50.0,1,8.0,1,6.67,90.0,lcd display,1
+xiaomi,xiaomi 14 ultra,99999,16.0,android,512.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,4,32.0,1,6.73,120.0,amoled display,2
+oppo,oppo f25 pro,23860,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,32.0,1,6.7,120.0,amoled display,2
+Other,nothing phone 2a plus,24580,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,50.0,1,6.7,120.0,amoled display,2
+vivo,vivo v30 pro,36798,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+oppo,oppo reno12 pro,29999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+realme,realme narzo 70x 5g,11999,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+vivo,vivo v30e,25999,8.0,android,128.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+realme,realme 13 pro,20949,8.0,android,128.0,5200,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,oled display,2
+samsung,samsung galaxy s22 ultra,74999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,4,40.0,1,6.8,120.0,amoled display,2
+oneplus,oneplus 12,61499,12.0,android,256.0,5400,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.82,120.0,oled display,2
+oppo,oppo reno12,26930,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+oppo,oppo f27,20999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,32.0,1,6.67,120.0,oled display,2
+samsung,samsung galaxy a15 5g,16670,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,13.0,1,6.5,90.0,amoled display,0
+vivo,vivo t3 lite,10044,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+poco,poco x6 5g,17998,8.0,android,256.0,5100,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,2
+oneplus,oneplus nord 3 5g,22390,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,16.0,1,6.74,120.0,amoled display,2
+oneplus,oneplus nord ce 3 5g,18910,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+poco,poco c75,8310,4.0,android,64.0,5160,Yes,Yes,No,Yes,snapdragon,8.0,50.0,1,5.0,1,6.88,120.0,lcd display,1
+realme,realme 12 pro plus,25499,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+oneplus,oneplus 11r,34900,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.74,120.0,amoled display,2
+vivo,vivo y300 plus,23599,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,32.0,1,6.78,120.0,amoled display,2
+Other,nothing phone 2,31900,8.0,android,128.0,4700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,32.0,1,6.7,120.0,amoled display,2
+oppo,oppo a3 pro,17300,8.0,android,128.0,5100,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.67,120.0,lcd display,1
+oppo,oppo a3x,10998,4.0,android,64.0,5100,Yes,Yes,No,Yes,mediatek,8.0,8.0,1,5.0,1,6.67,120.0,lcd display,1
+samsung,samsung galaxy f05,6499,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.7,60.0,lcd display,1
+google,google pixel 9 pro,109999,16.0,android,256.0,4700,Yes,Yes,Yes,Yes,google,8.0,50.0,3,42.0,1,6.3,120.0,oled display,2
+oppo,oppo a3 5g,14999,6.0,android,128.0,5100,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,5.0,1,6.67,120.0,lcd display,1
+vivo,vivo v29,32999,8.0,android,128.0,4600,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+google,google pixel 7a,31999,8.0,android,128.0,4385,Yes,Yes,Yes,Yes,google,8.0,64.0,2,13.0,1,6.1,90.0,oled display,0
+poco,poco c61,5899,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,8.0,2,5.0,1,6.71,90.0,lcd display,1
+xiaomi,xiaomi redmi 13c 5g,10999,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,5.0,1,6.74,90.0,lcd display,1
+samsung,samsung galaxy s21 fe,34999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,samsung,8.0,12.0,3,32.0,1,6.4,120.0,amoled display,0
+realme,realme 12x,11490,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+moto,moto g45 5g 8gb ram,11789,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,16.0,1,6.5,120.0,lcd display,1
+vivo,vivo y200 5g,21999,8.0,android,128.0,4800,Yes,Yes,No,Yes,snapdragon,8.0,64.0,2,16.0,1,6.67,120.0,amoled display,2
+infinix,infinix zero 40,25999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,50.0,1,6.78,144.0,amoled display,2
+realme,realme 12 plus,17748,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.67,120.0,amoled display,2
+xiaomi,xiaomi redmi 13c,8999,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.74,90.0,lcd display,1
+samsung,samsung galaxy a14 5g,11990,4.0,android,64.0,5000,Yes,Yes,No,Yes,samsung,8.0,50.0,3,13.0,1,6.6,90.0,lcd display,0
+lava,lava agni 3 5g,20999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.78,120.0,amoled display,2
+iqoo,iqoo z9 lite,10499,4.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+samsung,samsung galaxy m55 5g,26995,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+realme,realme 13 plus 5g,22999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,oled display,1
+realme,realme p1 speed 5g,15499,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,oled display,1
+samsung,samsung galaxy m15,11999,4.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,13.0,1,6.5,90.0,amoled display,0
+Other,nothing phone 1,21485,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,16.0,1,6.55,120.0,oled display,2
+honor,honor x9b,19998,8.0,android,256.0,5800,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,3,16.0,1,6.78,120.0,amoled display,2
+tecno,tecno pova 6 neo,11999,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,1,8.0,1,6.67,120.0,lcd display,1
+oneplus,oneplus nord 4 256gb,29999,8.0,android,256.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,16.0,1,6.74,120.0,amoled display,2
+vivo,vivo y58,16300,8.0,android,128.0,6000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+samsung,samsung galaxy s22,53900,8.0,android,128.0,3700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,10.0,1,6.1,120.0,amoled display,0
+oppo,oppo find x8 pro,99999,16.0,android,512.0,5910,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,4,32.0,1,6.78,120.0,oled display,2
+realme,realme c65 5g,10499,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,8.0,1,6.67,120.0,lcd display,1
+infinix,infinix note 40 5g,15999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,32.0,1,6.78,120.0,amoled display,2
+realme,realme p2 pro 256gb,20125,12.0,android,256.0,5200,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,32.0,1,6.7,120.0,oled display,2
+oneplus,oneplus 10 pro,66999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,32.0,1,6.7,120.0,amoled display,2
+poco,poco x7 pro 12gb ram,29999,12.0,android,256.0,6550,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,20.0,1,6.67,120.0,amoled display,2
+samsung,samsung galaxy a06,8700,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.7,60.0,lcd display,1
+realme,realme 13 5g,13949,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.72,120.0,lcd display,1
+lava,lava blaze duo,16999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.67,120.0,amoled display,1
+iqoo,iqoo z7 pro,18999,8.0,android,128.0,4600,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.78,120.0,amoled display,2
+realme,realme narzo 70,15999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,1
+tecno,tecno phantom x2 pro,23999,12.0,android,256.0,5160,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.8,120.0,amoled display,2
+samsung,samsung galaxy s20 fe 5g,31999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,12.0,3,32.0,1,6.5,120.0,amoled display,2
+motorola,motorola edge 50 fusion 256gb,23145,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,32.0,1,6.67,144.0,amoled display,2
+infinix,infinix hot 50 5g,9999,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,2,8.0,1,6.7,120.0,lcd display,1
+infinix,infinix note 40x,12933,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,2,8.0,1,6.78,120.0,lcd display,2
+xiaomi,xiaomi redmi note 14 pro plus 512gb,35998,12.0,android,512.0,6200,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,20.0,1,6.67,120.0,amoled display,2
+realme,realme 12 pro,25999,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+samsung,samsung galaxy a54 5g,33999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,32.0,1,6.4,120.0,amoled display,2
+google,google pixel 9,74999,12.0,android,256.0,4700,Yes,Yes,Yes,Yes,google,8.0,50.0,2,10.5,1,6.3,120.0,oled display,2
+realme,realme narzo n65 5g,10499,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,8.0,1,6.67,120.0,lcd display,1
+google,google pixel 7 pro 5g,44999,12.0,android,128.0,5000,Yes,Yes,Yes,Yes,google,8.0,50.0,3,10.8,1,6.7,120.0,oled display,2
+xiaomi,xiaomi redmi note 12 pro 5g,15999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.67,120.0,amoled display,0
+poco,poco f5,18999,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,2
+xiaomi,xiaomi mi 11t pro 5g,22410,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+moto,moto g54,14999,8.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.5,120.0,lcd display,1
+infinix,infinix smart 9 hd,6699,3.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,13.0,1,8.0,1,6.7,90.0,lcd display,1
+xiaomi,xiaomi redmi 12 5g,11999,4.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.79,90.0,lcd display,1
+oppo,oppo reno11 pro,30950,12.0,android,256.0,4600,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+vivo,vivo v29e,26999,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,2,50.0,1,6.78,120.0,amoled display,2
+iqoo,iqoo 13 5g 512gb,59999,16.0,android,512.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.82,144.0,amoled display,2
+samsung,samsung galaxy a73 5g,29999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,4,32.0,1,6.7,120.0,amoled display,2
+motorola,motorola edge 40 neo,27700,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,32.0,1,6.55,144.0,amoled display,2
+realme,realme c61,7025,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,32.0,1,5.0,1,6.78,90.0,lcd display,1
+vivo,vivo x100 pro 5g,89999,16.0,android,512.0,5400,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.78,120.0,amoled display,2
+samsung,samsung galaxy a25 5g,19980,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,13.0,1,6.5,120.0,amoled display,0
+xiaomi,xiaomi redmi a3x,6180,3.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,8.0,2,5.0,1,6.71,90.0,lcd display,1
+poco,poco m6 pro 5g,9999,4.0,android,64.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.79,90.0,lcd display,1
+lava,lava blaze curve 5g,14999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,32.0,1,6.67,120.0,amoled display,2
+xiaomi,xiaomi 14,46999,12.0,android,512.0,4610,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.36,120.0,amoled display,2
+vivo,vivo y28s,12848,4.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+oneplus,oneplus nord ce 4 5g 256gb,24998,8.0,android,256.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.7,120.0,amoled display,2
+moto,moto g85 256gb,19690,12.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,32.0,1,6.67,120.0,amoled display,2
+vivo,vivo y28e,9999,4.0,android,64.0,5000,No,Yes,No,Yes,mediatek,8.0,13.0,2,5.0,1,6.56,90.0,lcd display,1
+samsung,samsung galaxy m55s 5g,21999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+tecno,tecno camon 30 premier 5g,29499,12.0,android,512.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,50.0,1,6.77,120.0,amoled display,2
+infinix,infinix hot 40i,8999,8.0,android,256.0,5000,Yes,Yes,Yes,No,unisoc,8.0,50.0,2,32.0,1,6.6,90.0,lcd display,1
+oppo,oppo reno10 pro 5g,29750,12.0,android,256.0,4600,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+vivo,vivo t2 pro,26989,8.0,android,128.0,4600,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.78,120.0,amoled display,2
+samsung,samsung galaxy f15 6gb ram,12090,6.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,13.0,1,6.5,90.0,amoled display,0
+Other,hmd fusion,17999,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,108.0,2,50.0,1,6.56,90.0,lcd display,2
+google,google pixel 7 5g,33999,8.0,android,128.0,4355,Yes,Yes,Yes,Yes,google,8.0,50.0,2,10.8,1,6.3,90.0,oled display,0
+samsung,samsung galaxy a34,20799,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,3,13.0,1,6.6,120.0,amoled display,0
+oppo,oppo reno11,26850,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+moto,moto g64 256gb,15980,12.0,android,256.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.5,120.0,lcd display,2
+samsung,samsung galaxy m35 256gb,19499,8.0,android,256.0,6000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,13.0,1,6.6,120.0,amoled display,2
+realme,realme c53,8999,6.0,android,64.0,5000,Yes,Yes,No,No,unisoc,8.0,108.0,1,8.0,1,6.74,90.0,lcd display,1
+oneplus,oneplus 9 pro,30780,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,4,16.0,1,6.7,120.0,amoled display,2
+oneplus,oneplus 11,56999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+vivo,vivo t3 pro 256gb,24999,8.0,android,256.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.77,120.0,amoled display,2
+vivo,vivo x100,63999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.78,120.0,amoled display,2
+itel,itel a80,6999,4.0,android,128.0,5000,No,Yes,No,No,unisoc,8.0,50.0,1,8.0,1,6.67,120.0,lcd display,1
+oppo,oppo reno10 5g,30780,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,32.0,1,6.7,120.0,amoled display,2
+realme,realme c63 5g,10199,4.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,32.0,1,8.0,1,6.67,120.0,lcd display,1
+realme,realme gt 2 pro 5g,26999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+vivo,vivo v27,29499,8.0,android,128.0,4600,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+xiaomi,xiaomi 12 pro 5g,35999,8.0,android,256.0,4600,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.73,120.0,amoled display,2
+honor,honor 200 lite,18999,8.0,android,256.0,4500,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,50.0,1,6.7,90.0,amoled display,2
+samsung,samsung galaxy note 20 ultra 5g,59999,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,samsung,8.0,108.0,3,10.0,1,6.9,120.0,amoled display,2
+vivo,vivo v29 pro,39999,8.0,android,256.0,4600,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+samsung,samsung galaxy m15 prime edition,10999,4.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,13.0,1,6.6,90.0,amoled display,0
+Other,cmf phone 1 8gb ram,15899,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,1
+vivo,vivo y200e 5g,19299,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,1
+samsung,samsung galaxy m14 4g,8490,4.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,13.0,1,6.7,90.0,lcd display,0
+itel,itel color pro 5g,8949,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,8.0,1,6.6,90.0,lcd display,1
+samsung,samsung galaxy s20 ultra,44999,12.0,android,128.0,5000,Yes,Yes,Yes,No,samsung,8.0,108.0,3,40.0,1,6.9,120.0,amoled display,2
+samsung,samsung galaxy f55 5g 256gb,22999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+realme,realme 11 pro,20999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,100.0,2,16.0,1,6.7,120.0,amoled display,2
+realme,realme 14 pro plus 12gb ram,33999,12.0,android,256.0,6000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.83,120.0,oled display,2
+motorola,motorola edge 50 pro 5g 12gb ram,29350,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,144.0,amoled display,2
+vivo,vivo t3x 6gb ram,13319,6.0,android,128.0,6000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+xiaomi,xiaomi redmi note 12,15499,4.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,13.0,1,6.67,120.0,amoled display,0
+honor,honor magic 6 pro,89999,12.0,android,512.0,5600,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.8,120.0,oled display,2
+poco,poco m7 pro 256gb,16299,8.0,android,256.0,5110,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,20.0,1,6.67,120.0,amoled display,2
+motorola,motorola edge 40,34989,8.0,android,256.0,4400,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,32.0,1,6.55,144.0,amoled display,2
+realme,realme narzo n63,8499,4.0,android,64.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,1,8.0,1,6.74,90.0,lcd display,1
+samsung,samsung galaxy a53 5g,24470,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,64.0,4,32.0,1,6.5,120.0,amoled display,0
+vivo,vivo x80 pro 5g,40999,12.0,android,256.0,4700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,4,32.0,1,6.78,120.0,amoled display,2
+poco,poco m6,9179,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,5.0,1,6.74,90.0,lcd display,1
+vivo,vivo y20,12990,4.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,13.0,3,8.0,1,6.51,60.0,lcd display,0
+tecno,tecno camon 30 5g,19999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+iqoo,iqoo neo 9 pro 128gb,31999,8.0,android,128.0,5160,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.78,144.0,amoled display,2
+moto,moto g34,10999,4.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.5,120.0,lcd display,1
+iqoo,iqoo z9x 6gb ram,13499,6.0,android,128.0,6000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+realme,realme c63,8399,4.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,1,8.0,1,6.74,90.0,lcd display,1
+xiaomi,xiaomi redmi note 11t 5g,9490,6.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.6,90.0,lcd display,1
+xiaomi,xiaomi redmi 14c 6gb ram,11999,6.0,android,128.0,5160,Yes,Yes,No,Yes,snapdragon,8.0,50.0,1,8.0,1,6.88,120.0,lcd display,1
+iqoo,iqoo z9s pro 256gb,24999,8.0,android,256.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.77,120.0,amoled display,2
+lava,lava blaze x,14999,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.67,120.0,amoled display,1
+vivo,vivo y28 5g,13999,4.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+realme,realme 13 pro 512gb,22979,12.0,android,512.0,5200,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+oppo,oppo f21 pro,20999,8.0,android,128.0,4500,Yes,Yes,No,No,snapdragon,8.0,64.0,3,32.0,1,6.43,90.0,amoled display,0
+samsung,samsung galaxy a16 6gb ram,15499,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,13.0,1,6.7,90.0,amoled display,0
+oneplus,oneplus 10r 5g,28365,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+iqoo,iqoo neo 7 pro,35391,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,amoled display,2
+oneplus,oneplus 9r,24690,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,4,16.0,1,6.55,120.0,amoled display,0
+poco,poco x3 pro,10399,6.0,android,128.0,5160,Yes,Yes,No,No,snapdragon,8.0,48.0,4,20.0,1,6.67,120.0,lcd display,0
+samsung,samsung galaxy s21 ultra,58990,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,108.0,4,40.0,1,6.8,120.0,amoled display,2
+samsung,samsung galaxy m34,15999,6.0,android,128.0,6000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,13.0,1,6.5,120.0,amoled display,0
+oneplus,oneplus nord 2t 5g,28199,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.43,90.0,amoled display,0
+samsung,samsung galaxy s23 plus 5g,60999,8.0,android,256.0,4700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,12.0,1,6.6,120.0,amoled display,2
+samsung,samsung galaxy a35 256gb,28890,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,13.0,1,6.6,120.0,amoled display,2
+realme,realme gt 6t 256gb,27500,8.0,android,256.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,32.0,1,6.78,120.0,amoled display,2
+tecno,tecno phantom v flip,25999,8.0,android,256.0,4000,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,2,32.0,1,6.9,120.0,amoled display,2
+samsung,samsung galaxy f54 5g,22999,8.0,android,256.0,6000,Yes,Yes,Yes,Yes,samsung,8.0,108.0,3,32.0,1,6.7,120.0,amoled display,2
+samsung,samsung galaxy s21,22999,8.0,android,128.0,4000,Yes,Yes,Yes,Yes,samsung,8.0,12.0,3,10.0,1,6.2,120.0,amoled display,0
+nokia,nokia x30 5g,48999,8.0,android,256.0,4200,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,16.0,1,6.43,90.0,amoled display,2
+samsung,samsung galaxy m14,13299,4.0,android,128.0,6000,Yes,Yes,No,Yes,samsung,8.0,50.0,3,13.0,1,6.6,90.0,lcd display,0
+tecno,tecno pop 9 5g,9499,4.0,android,64.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,1,8.0,1,6.67,120.0,lcd display,1
+oneplus,oneplus 13r 512gb,49998,16.0,android,512.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,amoled display,2
+google,google pixel 6a,4399,6.0,android,128.0,4410,Yes,Yes,Yes,Yes,google,8.0,12.2,2,8.0,1,6.1,60.0,oled display,0
+itel,itel s23 plus,14499,8.0,android,256.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,1,32.0,1,6.78,60.0,amoled display,1
+oneplus,oneplus nord ce 2 lite 5g,19290,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.59,120.0,lcd display,0
+samsung,samsung galaxy f06 6gb ram,11499,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.7,60.0,lcd display,1
+tecno,tecno spark 30c,9996,4.0,android,64.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,1,8.0,1,6.67,120.0,lcd display,1
+samsung,samsung galaxy m35 8gb ram,16499,8.0,android,128.0,6000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,13.0,1,6.6,120.0,amoled display,0
+vivo,vivo y29 5g 8gb ram,16999,8.0,android,128.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.68,120.0,lcd display,1
+oppo,oppo reno8 pro 5g,32999,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+vivo,vivo y18,8499,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+realme,realme 14 pro 256gb,24290,8.0,android,256.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.77,120.0,oled display,2
+oneplus,oneplus nord 2,25999,6.0,android,128.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.43,90.0,amoled display,0
+vivo,vivo t2x,11999,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.58,60.0,lcd display,1
+tecno,tecno phantom x2,23999,8.0,android,256.0,5160,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,32.0,1,6.8,120.0,amoled display,2
+iqoo,iqoo neo 7,29999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,16.0,1,6.78,120.0,amoled display,2
+vivo,vivo t3x 8gb ram,17990,8.0,android,128.0,6000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+tecno,tecno pova 6 pro,19999,8.0,android,256.0,6000,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,32.0,1,6.78,120.0,amoled display,2
+poco,poco f5 256gb,18580,12.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,2
+oppo,oppo a78 5g,17999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+realme,realme 14x 8gb ram,15209,8.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,8.0,1,6.67,120.0,lcd display,1
+moto,moto g24 power,7999,4.0,android,128.0,6000,Yes,Yes,No,No,mediatek,8.0,50.0,2,16.0,1,6.56,90.0,lcd display,1
+infinix,infinix zero 40 512gb,28999,12.0,android,512.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,50.0,1,6.78,144.0,amoled display,2
+realme,realme 12,16999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,2,8.0,1,6.72,120.0,lcd display,1
+oppo,oppo reno8 5g,25334,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.4,90.0,amoled display,0
+vivo,vivo v25 pro 5g,23299,8.0,android,128.0,4830,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,32.0,1,6.56,120.0,amoled display,2
+oppo,oppo a79 5g,18190,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.72,90.0,lcd display,1
+samsung,samsung galaxy a16 256gb,19999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,13.0,1,6.7,90.0,amoled display,2
+samsung,samsung galaxy m15 prime edition 8gb ram,13499,8.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,13.0,1,6.6,90.0,amoled display,0
+samsung,samsung galaxy m51,11499,6.0,android,128.0,7000,Yes,Yes,Yes,No,snapdragon,8.0,64.0,4,32.0,1,6.7,60.0,amoled display,0
+realme,realme gt 7 pro 512gb,65999,16.0,android,512.0,5800,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,amoled display,2
+xiaomi,xiaomi redmi a4 128gb,9499,4.0,android,128.0,5160,Yes,Yes,No,Yes,snapdragon,8.0,50.0,1,5.0,1,6.88,120.0,lcd display,1
+samsung,samsung galaxy a55 12gb ram,39499,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,32.0,1,6.6,120.0,amoled display,2
+samsung,samsung galaxy z flip6,89999,12.0,android,256.0,4000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,10.0,1,6.7,120.0,amoled display,2
+infinix,infinix zero 5g,11590,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,16.0,1,6.78,120.0,lcd display,1
+infinix,infinix zero flip,48999,8.0,android,512.0,4720,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,50.0,1,6.9,120.0,amoled display,2
+vivo,vivo x90 5g,44490,8.0,android,256.0,4810,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.78,120.0,amoled display,2
+poco,poco c65,8499,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.74,90.0,lcd display,1
+realme,realme gt 5g,36999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,16.0,1,6.43,120.0,amoled display,2
+vivo,vivo v27 pro,28499,8.0,android,128.0,4600,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+oppo,oppo reno6 pro 5g,46990,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,4,32.0,1,6.55,90.0,amoled display,2
+poco,poco m6 plus 8gb ram,11999,8.0,android,128.0,5030,Yes,Yes,No,Yes,snapdragon,8.0,108.0,2,13.0,1,6.79,120.0,lcd display,2
+infinix,infinix note 40x 12gb ram,13022,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,2,8.0,1,6.78,120.0,lcd display,2
+samsung,samsung galaxy s10,29999,8.0,android,128.0,3400,Yes,Yes,Yes,No,samsung,8.0,12.0,3,10.0,1,6.1,60.0,amoled display,0
+oppo,oppo reno6 5g,25490,8.0,android,128.0,4300,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,32.0,1,6.43,90.0,amoled display,0
+oppo,oppo reno10 pro+ 5g,38390,12.0,android,256.0,4700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.74,120.0,amoled display,2
+xiaomi,xiaomi mi 11x,18999,6.0,android,128.0,4520,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,20.0,1,6.67,120.0,amoled display,2
+realme,realme 10 pro plus 5g,18998,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,16.0,1,6.7,120.0,amoled display,2
+samsung,samsung galaxy a23 5g,15449,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,4,8.0,1,6.6,120.0,lcd display,0
+motorola,motorola edge plus,49999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,3,25.0,1,6.7,90.0,oled display,2
+xiaomi,xiaomi redmi note 13 256gb,16999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+samsung,samsung galaxy f14 5g,14490,4.0,android,128.0,6000,Yes,Yes,No,Yes,samsung,8.0,50.0,2,13.0,1,6.6,90.0,lcd display,1
+samsung,samsung galaxy a33 5g,25999,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,48.0,4,13.0,1,6.4,90.0,amoled display,0
+poco,poco f4 5g,19990,6.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,20.0,1,6.67,120.0,amoled display,2
+vivo,vivo v40e 256gb,28900,8.0,android,256.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,50.0,1,6.77,120.0,amoled display,2
+oneplus,oneplus nord 4 12gb ram,32999,12.0,android,256.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,16.0,1,6.74,120.0,amoled display,2
+samsung,samsung galaxy f62,21999,6.0,android,128.0,7000,Yes,Yes,Yes,No,samsung,8.0,64.0,4,32.0,1,6.7,60.0,amoled display,0
+realme,realme c55,8990,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,2,8.0,1,6.72,90.0,lcd display,1
+tecno,tecno pova 3 128gb,12999,6.0,android,128.0,7000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.9,90.0,lcd display,1
+iqoo,iqoo z9s pro 12gb ram,26999,12.0,android,256.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.77,120.0,amoled display,2
+vivo,vivo y200 pro,23499,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,2,16.0,1,6.78,120.0,amoled display,2
+vivo,vivo t2,15999,6.0,android,128.0,4500,Yes,Yes,No,Yes,snapdragon,8.0,64.0,2,16.0,1,6.38,90.0,amoled display,0
+xiaomi,xiaomi redmi a3,6949,3.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,8.0,2,5.0,1,6.7,90.0,lcd display,1
+samsung,samsung galaxy m53 5g,20999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,4,32.0,1,6.7,120.0,amoled display,2
+samsung,samsung galaxy f23 5g,12999,4.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,8.0,1,6.6,120.0,tft display,0
+motorola,motorola razr 50,54999,8.0,android,256.0,4200,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,32.0,1,6.9,120.0,amoled display,2
+samsung,samsung galaxy s22 plus,52999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,10.0,1,6.6,120.0,amoled display,2
+vivo,vivo x80 5g,33999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.78,120.0,amoled display,2
+xiaomi,xiaomi redmi note 10 pro,15790,6.0,android,64.0,5020,Yes,Yes,No,No,snapdragon,8.0,64.0,4,16.0,1,6.67,120.0,amoled display,0
+samsung,samsung galaxy a23,14999,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,4,8.0,1,6.6,90.0,lcd display,0
+tecno,tecno pop 9,6299,3.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,13.0,1,8.0,1,6.67,90.0,lcd display,1
+moto,moto g04,8999,4.0,android,64.0,5000,Yes,Yes,No,No,unisoc,8.0,16.0,1,5.0,1,6.56,90.0,lcd display,1
+xiaomi,xiaomi redmi k50i,23799,6.0,android,128.0,5080,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,16.0,1,6.6,144.0,lcd display,2
+samsung,samsung galaxy s25 512gb,92999,12.0,android,512.0,4000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,12.0,1,6.2,120.0,amoled display,2
+samsung,samsung galaxy a15 5g 6gb ram,16980,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,13.0,1,6.5,90.0,amoled display,0
+itel,itel zeno 10,5999,3.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,8.0,1,5.0,1,6.6,60.0,lcd display,1
+realme,realme 10 pro 5g,15499,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,108.0,2,16.0,1,6.72,120.0,lcd display,1
+realme,realme p1 speed 5g 256gb,19090,12.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,oled display,2
+vivo,vivo t1,15490,4.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.58,120.0,lcd display,0
+iqoo,iqoo neo 6 5g,29999,8.0,android,128.0,4700,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.62,120.0,amoled display,2
+oppo,oppo a3x 4g,8999,4.0,android,64.0,5100,Yes,Yes,No,No,snapdragon,8.0,8.0,1,5.0,1,6.67,90.0,lcd display,1
+oppo,oppo a59 5g,13999,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,13.0,2,8.0,1,6.56,90.0,lcd display,1
+realme,realme c67 5g,10949,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+vivo,vivo y100,17990,8.0,android,128.0,4500,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,16.0,1,6.38,90.0,amoled display,0
+realme,realme 14 pro plus 256gb,31490,8.0,android,256.0,6000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.83,120.0,oled display,2
+realme,realme gt 6 512gb,44800,16.0,android,512.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.78,120.0,amoled display,2
+vivo,vivo x90 pro,59990,12.0,android,256.0,4870,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.78,120.0,amoled display,2
+iqoo,iqoo z9x 8gb ram,17990,8.0,android,128.0,6000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+samsung,samsung galaxy f55 5g 12gb ram,26999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+tecno,tecno spark 30c 8gb ram,12999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,1,8.0,1,6.67,120.0,lcd display,1
+oneplus,oneplus 9,25798,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.55,120.0,amoled display,2
+poco,poco x4 pro,12680,6.0,android,64.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,0
+xiaomi,xiaomi redmi note 10,11990,4.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,4,13.0,1,6.43,60.0,amoled display,0
+vivo,vivo y300 256gb,23599,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,32.0,1,6.67,120.0,amoled display,2
+realme,realme narzo n61,7498,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,32.0,1,5.0,1,6.74,90.0,lcd display,1
+vivo,vivo v20,15239,8.0,android,128.0,4000,Yes,Yes,No,No,snapdragon,8.0,64.0,3,44.0,1,6.44,60.0,amoled display,0
+oneplus,oneplus nord ce 2 5g,17999,6.0,android,128.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,16.0,1,6.43,90.0,amoled display,0
+tecno,tecno camon 20 pro,17999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,32.0,1,6.67,120.0,amoled display,2
+samsung,samsung galaxy f15 8gb ram,14999,8.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,13.0,1,6.5,90.0,amoled display,0
+poco,poco f6 12gb ram,26999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,20.0,1,6.67,120.0,amoled display,2
+infinix,infinix note 40 pro plus 5g,21644,12.0,android,256.0,4600,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,32.0,1,6.78,120.0,amoled display,2
+vivo,vivo x50 pro,47990,8.0,android,256.0,4315,Yes,Yes,No,Yes,snapdragon,8.0,48.0,4,32.0,1,6.56,90.0,amoled display,2
+samsung,samsung galaxy s20 fe,28999,8.0,android,128.0,4500,Yes,Yes,Yes,No,samsung,8.0,12.0,3,32.0,1,6.5,120.0,amoled display,0
+iqoo,iqoo z9s 256gb,21999,8.0,android,256.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.77,120.0,amoled display,2
+nokia,nokia g42,11999,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,8.0,1,6.56,90.0,lcd display,0
+samsung,samsung galaxy s21 fe 2023,33389,8.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,12.0,3,32.0,1,6.4,120.0,amoled display,2
+oneplus,oneplus 7t,19888,8.0,android,128.0,3800,Yes,Yes,Yes,No,snapdragon,8.0,48.0,3,16.0,1,6.55,90.0,amoled display,0
+samsung,samsung galaxy m15 prime edition 6gb ram,11999,6.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,13.0,1,6.6,90.0,amoled display,0
+oneplus,oneplus nord ce 5g,22989,6.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,16.0,1,6.43,90.0,amoled display,0
+xiaomi,xiaomi redmi note 14 256gb,21999,8.0,android,256.0,5110,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,20.0,1,6.67,120.0,amoled display,2
+realme,realme 10,9999,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,16.0,1,6.4,90.0,amoled display,0
+itel,itel p55 5g,7899,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+infinix,infinix hot 50 5g 8gb ram,10225,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,1,8.0,1,6.7,120.0,lcd display,1
+realme,realme p1 8gb ram,15195,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,1
+oppo,oppo reno13 256gb,35750,8.0,android,256.0,5600,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,50.0,1,6.59,120.0,amoled display,2
+realme,realme gt neo 3 5g,21650,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+infinix,infinix gt 10 pro,21990,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,32.0,1,6.67,120.0,amoled display,2
+Other,nothing phone 2a plus 12gb ram,2599,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,50.0,1,6.7,120.0,amoled display,2
+oneplus,oneplus 13 512gb,76998,16.0,android,512.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.82,120.0,amoled display,2
+oppo,oppo f23,19800,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,32.0,1,6.72,120.0,lcd display,2
+vivo,vivo y29 5g 256gb,18999,8.0,android,256.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.68,120.0,lcd display,1
+oppo,oppo f17,15999,6.0,android,128.0,4015,Yes,Yes,No,No,snapdragon,8.0,16.0,4,16.0,1,6.44,60.0,amoled display,0
+oneplus,oneplus nord ce 4 lite 5g 256gb,20998,8.0,android,256.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,2
+vivo,vivo t3 lite 6gb ram,11798,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+iqoo,iqoo 12 5g 512gb,50999,16.0,android,512.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,144.0,amoled display,2
+xiaomi,xiaomi redmi note 10s,9999,6.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,4,13.0,1,6.43,60.0,amoled display,0
+vivo,vivo t3 ultra 256gb,31999,8.0,android,256.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+oppo,oppo reno8 t 5g,27990,8.0,android,128.0,4800,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,3,32.0,1,6.7,120.0,amoled display,2
+realme,realme gt 6 12gb ram,34540,12.0,android,256.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.78,120.0,amoled display,2
+moto,moto g84,16999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,16.0,1,6.55,120.0,amoled display,2
+xiaomi,xiaomi redmi note 11 pro plus 5g,17990,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+oppo,oppo a54,10294,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,13.0,3,16.0,1,6.51,60.0,lcd display,0
+vivo,vivo x70 pro,33499,8.0,android,128.0,4450,Yes,Yes,No,Yes,mediatek,8.0,50.0,4,32.0,1,6.56,120.0,amoled display,2
+vivo,vivo v40 pro 512gb,55999,12.0,android,512.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+motorola,motorola edge 30 fusion,22999,8.0,android,128.0,4400,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.55,144.0,amoled display,2
+vivo,vivo y29 5g 6gb ram,15499,6.0,android,128.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.68,120.0,lcd display,1
+lava,lava blaze curve 5g 256gb,15499,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,32.0,1,6.67,120.0,amoled display,2
+oppo,oppo f19 pro+ 5g,21990,8.0,android,128.0,4310,Yes,Yes,No,Yes,mediatek,8.0,48.0,4,16.0,1,6.43,60.0,amoled display,0
+poco,poco x5 pro,16499,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+vivo,vivo v40 256gb,36999,8.0,android,256.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+samsung,samsung galaxy s20 plus,39999,8.0,android,128.0,4500,Yes,Yes,Yes,No,samsung,8.0,12.0,3,10.0,1,6.7,120.0,amoled display,2
+samsung,samsung galaxy a55 256gb,36998,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,32.0,1,6.6,120.0,amoled display,2
+tecno,tecno spark 20 pro 5g,15999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,2,8.0,1,6.78,120.0,lcd display,1
+infinix,infinix smart 8,7299,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,50.0,1,8.0,1,6.6,90.0,lcd display,1
+samsung,samsung galaxy m52 5g,23749,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,32.0,1,6.7,120.0,amoled display,2
+xiaomi,xiaomi redmi 12,9895,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.79,90.0,lcd display,1
+asus,asus rog phone 8 pro,94999,16.0,android,512.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.78,165.0,amoled display,2
+realme,realme gt 6t 12gb ram,30999,12.0,android,256.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,32.0,1,6.78,120.0,amoled display,2
+asus,asus rog phone 5s 5g 256gb,32999,12.0,android,256.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,24.0,1,6.78,144.0,amoled display,2
+realme,realme 8,14490,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,4,16.0,1,6.4,60.0,amoled display,0
+poco,poco x6 pro 512gb,27999,12.0,android,512.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,2
+oneplus,oneplus 8,41999,6.0,android,128.0,4300,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.55,90.0,amoled display,0
+honor,honor 200 512gb,32999,12.0,android,512.0,5200,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+tecno,tecno spark 20,9999,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,32.0,1,6.6,90.0,lcd display,1
+samsung,samsung galaxy a51,18490,6.0,android,128.0,4000,Yes,Yes,Yes,No,samsung,8.0,48.0,4,32.0,1,6.5,60.0,amoled display,0
+xiaomi,xiaomi redmi note 14 pro plus 256gb,32189,8.0,android,256.0,6200,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,20.0,1,6.67,120.0,amoled display,2
+samsung,samsung galaxy s21 plus,49000,8.0,android,128.0,4800,Yes,Yes,Yes,Yes,samsung,8.0,12.0,3,10.0,1,6.7,120.0,amoled display,2
+lava,lava yuva smart,6099,3.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,13.0,1,5.0,1,6.75,60.0,lcd display,1
+vivo,vivo v25 5g,22985,8.0,android,128.0,4500,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,50.0,1,6.44,90.0,amoled display,0
+samsung,samsung galaxy s20,33999,8.0,android,128.0,4000,Yes,Yes,Yes,No,samsung,8.0,12.0,3,10.0,1,6.2,120.0,amoled display,0
+samsung,samsung galaxy s23 5g 256gb,51999,8.0,android,256.0,3900,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,12.0,1,6.1,120.0,amoled display,0
+samsung,samsung galaxy m55 5g 256gb,29999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+xiaomi,xiaomi redmi 13 8gb ram,12990,8.0,android,128.0,5030,Yes,Yes,No,Yes,snapdragon,8.0,108.0,2,13.0,1,6.79,120.0,lcd display,2
+oneplus,oneplus 10t,33899,8.0,android,128.0,4800,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+infinix,infinix zero 30,22999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,50.0,1,6.78,144.0,amoled display,2
+nokia,nokia g42 4gb ram,9699,4.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,8.0,1,6.56,90.0,lcd display,0
+iqoo,iqoo neo 9 pro 12gb ram,35999,12.0,android,256.0,5160,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.78,144.0,amoled display,2
+samsung,samsung galaxy z flip5,59800,8.0,android,256.0,3700,Yes,Yes,Yes,Yes,snapdragon,8.0,12.0,2,10.0,1,6.7,120.0,amoled display,2
+oppo,oppo a53 2020,9990,4.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,13.0,3,16.0,1,6.5,90.0,lcd display,0
+xiaomi,xiaomi redmi note 11 4g,12000,4.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,4,13.0,1,6.43,90.0,amoled display,0
+moto,moto g60,13799,6.0,android,128.0,6000,Yes,Yes,Yes,No,snapdragon,8.0,108.0,3,32.0,1,6.8,120.0,lcd display,2
+realme,realme 11x 5g,11999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,8.0,1,6.72,120.0,lcd display,1
+samsung,samsung galaxy s10 lite,39999,8.0,android,128.0,4500,Yes,Yes,Yes,No,snapdragon,8.0,48.0,3,32.0,1,6.7,60.0,amoled display,0
+samsung,samsung galaxy a52s 5g,30999,6.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,4,32.0,1,6.5,120.0,amoled display,2
+realme,realme narzo 60 5g,19999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.43,90.0,amoled display,0
+realme,realme narzo 60x 5g,11499,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+lava,lava blaze 3,10999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+Other,nothing phone 2 512gb,45999,12.0,android,512.0,4700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,32.0,1,6.7,120.0,amoled display,2
+xiaomi,xiaomi redmi note 11 pro,13430,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,108.0,4,16.0,1,6.67,120.0,amoled display,0
+poco,poco x6 5g 512gb,20999,12.0,android,512.0,5100,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,2
+oppo,oppo a17,9999,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,50.0,2,5.0,1,6.56,60.0,lcd display,1
+vivo,vivo t1 pro 5g,15890,6.0,android,128.0,4700,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.44,90.0,amoled display,0
+oneplus,oneplus 8t,22999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,4,16.0,1,6.55,120.0,amoled display,0
+oppo,oppo a38,11390,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,5.0,1,6.56,90.0,lcd display,1
+oppo,oppo reno5 pro 5g,22990,8.0,android,128.0,4350,Yes,Yes,No,Yes,mediatek,8.0,64.0,4,32.0,1,6.55,90.0,amoled display,0
+oneplus,oneplus 7 pro,24990,6.0,android,128.0,4000,No,Yes,Yes,No,snapdragon,8.0,48.0,3,16.0,1,6.67,90.0,amoled display,0
+samsung,samsung galaxy z flip 3,49999,8.0,android,128.0,3300,Yes,Yes,Yes,Yes,snapdragon,8.0,12.0,2,10.0,1,6.7,120.0,amoled display,2
+tecno,tecno pova 6 neo 256gb,13999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,1,8.0,1,6.67,120.0,lcd display,1
+samsung,samsung galaxy m33 5g,17999,6.0,android,128.0,6000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,4,8.0,1,6.6,120.0,tft display,0
+xiaomi,xiaomi redmi note 14 8gb ram,19999,8.0,android,128.0,5110,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,20.0,1,6.67,120.0,amoled display,2
+samsung,samsung galaxy f22,9149,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,48.0,4,13.0,1,6.4,90.0,amoled display,0
+oneplus,oneplus 12r 256gb,42999,16.0,android,256.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,oled display,2
+realme,realme p2 pro 512gb,27999,12.0,android,512.0,5200,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,32.0,1,6.7,120.0,oled display,2
+oppo,oppo f15,18990,8.0,android,128.0,4000,Yes,Yes,No,No,mediatek,8.0,48.0,4,16.0,1,6.4,60.0,amoled display,0
+poco,poco x5,13400,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,13.0,1,6.67,120.0,amoled display,0
+vivo,vivo t3 ultra 12gb ram,33999,12.0,android,256.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+oppo,oppo f19 pro,13990,8.0,android,128.0,4310,Yes,Yes,No,No,mediatek,8.0,48.0,4,16.0,1,6.43,60.0,amoled display,0
+motorola,motorola edge 20,18999,8.0,android,128.0,4000,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,3,32.0,1,6.7,144.0,oled display,2
+iqoo,iqoo z7,18999,6.0,android,128.0,4500,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.38,90.0,amoled display,0
+samsung,samsung galaxy f34,17999,6.0,android,128.0,6000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,13.0,1,6.5,120.0,amoled display,0
+moto,moto g04s,7789,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,50.0,1,5.0,1,6.6,90.0,lcd display,1
+samsung,samsung galaxy s25 plus 512gb,111999,12.0,android,512.0,4900,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,12.0,1,6.7,120.0,amoled display,2
+poco,poco c61 128gb,6999,6.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,8.0,2,5.0,1,6.71,90.0,lcd display,1
+poco,poco x3,11990,6.0,android,64.0,6000,Yes,Yes,No,No,snapdragon,8.0,64.0,4,20.0,1,6.67,120.0,lcd display,0
+samsung,samsung galaxy s23 fe 5g 256gb,39990,8.0,android,256.0,4500,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,10.0,1,6.4,120.0,amoled display,2
+samsung,samsung galaxy xcover 7,27208,6.0,android,128.0,4050,Yes,No,Yes,Yes,mediatek,8.0,50.0,1,5.0,1,6.6,60.0,lcd display,1
+oppo,oppo reno13 pro 512gb,54999,12.0,android,512.0,5800,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,50.0,1,6.83,120.0,amoled display,2
+xiaomi,xiaomi mi 10t,17490,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,20.0,1,6.67,144.0,lcd display,2
+samsung,samsung galaxy m55 5g 12gb ram,32999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+samsung,samsung galaxy a53 5g 256gb,30000,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,64.0,4,32.0,1,6.5,120.0,amoled display,2
+Other,hmd skyline,35999,12.0,android,256.0,4600,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,3,50.0,1,6.55,144.0,amoled display,2
+tecno,tecno spark go 1,72908,4.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,13.0,1,8.0,1,6.67,120.0,lcd display,1
+oppo,oppo a16,10499,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,13.0,3,8.0,1,6.52,60.0,lcd display,0
+realme,realme 12 plus 256gb,19160,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.67,120.0,amoled display,2
+xiaomi,xiaomi redmi note 9 pro max,15290,6.0,android,64.0,5020,Yes,Yes,No,No,snapdragon,8.0,64.0,4,32.0,1,6.67,60.0,lcd display,0
+realme,realme gt neo 3t 5g,22969,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,16.0,1,6.62,120.0,amoled display,2
+realme,realme 11,18999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,2,16.0,1,6.72,120.0,lcd display,2
+infinix,infinix note 12 turbo,9898,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,16.0,1,6.7,60.0,amoled display,1
+vivo,vivo v40 512gb,41999,12.0,android,512.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+vivo,vivo x200 512gb,71999,16.0,android,512.0,5800,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.67,120.0,amoled display,2
+iqoo,iqoo z6 5g,15499,4.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.58,120.0,lcd display,0
+xiaomi,xiaomi redmi 14c 128gb,10999,4.0,android,128.0,5160,Yes,Yes,No,Yes,snapdragon,8.0,50.0,1,8.0,1,6.88,120.0,lcd display,1
+realme,realme gt master edition 5g,26999,6.0,android,128.0,4300,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,32.0,1,6.43,120.0,amoled display,0
+oppo,oppo find x8 512gb,79999,16.0,android,512.0,5630,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.59,120.0,oled display,2
+realme,realme 9,14400,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,108.0,3,16.0,1,6.4,90.0,amoled display,0
+samsung,samsung galaxy a05s,11999,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,13.0,1,6.7,90.0,lcd display,0
+vivo,vivo x60,29990,8.0,android,128.0,4300,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,32.0,1,6.56,120.0,amoled display,2
+oppo,oppo a3 pro 256gb,19999,8.0,android,256.0,5100,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.67,120.0,lcd display,1
+samsung,samsung galaxy m55s 256gb,23999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+iqoo,iqoo z7s 5g,14918,6.0,android,128.0,4500,Yes,Yes,No,Yes,snapdragon,8.0,64.0,2,16.0,1,6.38,90.0,amoled display,0
+oppo,oppo k12x 256gb,15999,8.0,android,256.0,5100,Yes,Yes,No,Yes,mediatek,8.0,32.0,2,8.0,1,6.67,120.0,lcd display,1
+realme,realme 7,11490,6.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,4,16.0,1,6.5,90.0,lcd display,0
+xiaomi,xiaomi mi 11 ultra,69999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,20.0,1,6.81,120.0,amoled display,2
+realme,realme c65 5g 128gb,9999,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,8.0,1,6.67,120.0,lcd display,1
+lava,lava blaze duo 8gb ram,17999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.67,120.0,amoled display,1
+oneplus,oneplus 9 rt,34999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.62,120.0,amoled display,2
+poco,poco m4 pro,10280,6.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,3,16.0,1,6.43,90.0,amoled display,0
+Other,nothing phone 2a 256gb,22932,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,32.0,1,6.7,120.0,amoled display,2
+vivo,vivo y100a,22599,8.0,android,128.0,4500,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.38,90.0,amoled display,0
+samsung,samsung galaxy m32,13399,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,64.0,4,20.0,1,6.4,90.0,amoled display,0
+xiaomi,xiaomi 13 pro,74990,12.0,android,256.0,4820,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.73,120.0,amoled display,2
+vivo,vivo y17s,9499,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.56,60.0,lcd display,1
+realme,realme c63 5g 8gb ram,11440,8.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,32.0,1,8.0,1,6.67,120.0,lcd display,1
+oppo,oppo a15s,9394,4.0,android,64.0,4230,No,Yes,No,No,mediatek,8.0,13.0,3,8.0,1,6.52,60.0,lcd display,0
+realme,realme 9 pro plus,21999,6.0,android,128.0,4500,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.4,90.0,amoled display,0
+oppo,oppo f21s pro 5g,17999,8.0,android,128.0,4500,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.43,60.0,amoled display,0
+oppo,oppo f27 pro plus 256gb,27999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,8.0,1,6.7,120.0,amoled display,2
+iqoo,iqoo z9 lite 6gb ram,11499,6.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+oneplus,oneplus 8 pro,39890,8.0,android,128.0,4510,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,4,16.0,1,6.78,120.0,amoled display,2
+oppo,oppo k10,13490,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,16.0,1,6.59,90.0,lcd display,0
+nokia,nokia g42 256gb,16999,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,8.0,1,6.56,90.0,lcd display,0
+oneplus,oneplus 12r 8gb ram,39998,8.0,android,256.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,oled display,2
+realme,realme 9 5g se,11999,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,16.0,1,6.6,144.0,lcd display,0
+realme,realme narzo 70 turbo 8gb ram,16999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,oled display,1
+oneplus,oneplus 6t,29990,6.0,android,128.0,3700,No,Yes,Yes,No,snapdragon,8.0,16.0,2,16.0,1,6.41,60.0,amoled display,0
+poco,poco m2 pro,10449,4.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,4,16.0,1,6.67,60.0,lcd display,0
+realme,realme 9i,10999,4.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,16.0,1,6.6,90.0,lcd display,0
+oneplus,oneplus nord ce 3 lite 5g 256gb,21644,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,108.0,3,16.0,1,6.72,120.0,lcd display,2
+oneplus,oneplus 7,17990,6.0,android,128.0,3700,No,Yes,Yes,No,snapdragon,8.0,48.0,2,16.0,1,6.41,60.0,amoled display,0
+micromax,micromax in 2b 6gb ram,5750,6.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,13.0,2,5.0,1,6.52,60.0,lcd display,1
+oppo,oppo reno7 pro,27490,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.55,90.0,amoled display,2
+oppo,oppo a18,9870,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,8.0,2,5.0,1,6.56,90.0,lcd display,1
+samsung,samsung galaxy a54 5g 256gb,28990,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,32.0,1,6.4,120.0,amoled display,2
+samsung,samsung galaxy a21s,10999,4.0,android,64.0,5000,Yes,Yes,No,No,samsung,8.0,48.0,4,13.0,1,6.5,60.0,lcd display,0
+xiaomi,xiaomi mi 11i,19990,6.0,android,128.0,5160,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+realme,realme c35,8990,4.0,android,64.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,3,8.0,1,6.6,60.0,lcd display,0
+realme,realme 13 pro plus 512gb,28605,12.0,android,512.0,5200,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,oled display,2
+poco,poco x7 256gb,23999,8.0,android,256.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,20.0,1,6.67,120.0,amoled display,2
+poco,poco x6 5g 12gb ram,19998,12.0,android,256.0,5100,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,2
+iqoo,iqoo 7,22990,8.0,android,128.0,4400,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.62,120.0,amoled display,2
+samsung,samsung galaxy m31s,9499,6.0,android,128.0,6000,Yes,Yes,No,No,samsung,8.0,64.0,4,32.0,1,6.5,60.0,amoled display,0
+tecno,tecno pova 5 pro,14999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,16.0,1,6.78,120.0,lcd display,1
+samsung,samsung galaxy a34 8gb ram,24999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,3,13.0,1,6.6,120.0,amoled display,2
+motorola,motorola edge 40 neo 256gb,24999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,32.0,1,6.55,144.0,amoled display,2
+xiaomi,xiaomi 11 lite ne 5g,22799,6.0,android,128.0,4250,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,20.0,1,6.55,90.0,amoled display,0
+xiaomi,xiaomi redmi 12c,7419,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,50.0,2,5.0,1,6.71,60.0,lcd display,1
+moto,moto g34 8gb ram,11999,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.5,120.0,lcd display,1
+samsung,samsung galaxy a12,12649,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,48.0,4,8.0,1,6.5,60.0,lcd display,0
+infinix,infinix gt 20 pro 5g 12gb ram,24999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,32.0,1,6.78,144.0,amoled display,2
+xiaomi,xiaomi redmi note 14 pro 256gb,26450,8.0,android,256.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,20.0,1,6.67,120.0,amoled display,2
+xiaomi,xiaomi redmi note 9,9996,4.0,android,64.0,5020,Yes,Yes,No,No,mediatek,8.0,48.0,4,13.0,1,6.53,60.0,lcd display,0
+xiaomi,xiaomi mi 10t pro,23490,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,3,20.0,1,6.67,144.0,lcd display,2
+oppo,oppo a15,7999,3.0,android,32.0,4230,No,Yes,No,No,mediatek,8.0,13.0,3,5.0,1,6.52,60.0,lcd display,0
+oppo,oppo reno7,25990,8.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,32.0,1,6.43,90.0,amoled display,2
+xiaomi,xiaomi redmi 10,7777,4.0,android,64.0,6000,Yes,Yes,No,No,snapdragon,8.0,50.0,2,5.0,1,6.7,60.0,lcd display,1
+oneplus,oneplus 12r genshin impact edition,49999,16.0,android,256.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,oled display,2
+samsung,samsung galaxy note 20,44990,8.0,android,256.0,4300,Yes,Yes,Yes,No,samsung,8.0,12.0,3,10.0,1,6.7,120.0,amoled display,2
+vivo,vivo v30 pro 512gb,46999,12.0,android,512.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+oppo,oppo a55 4g,10990,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,16.0,1,6.51,60.0,lcd display,0
+poco,poco x6 neo 256gb,17999,12.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,2,16.0,1,6.67,120.0,amoled display,2
+vivo,vivo t3 256gb,20499,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,2
+samsung,samsung galaxy s22 plus 256gb,40999,8.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,10.0,1,6.6,120.0,amoled display,2
+vivo,vivo y22 2022,14499,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.55,60.0,lcd display,1
+realme,realme gt 6t 512gb,39999,12.0,android,512.0,5500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,32.0,1,6.78,120.0,amoled display,2
+realme,realme 13 5g 256gb,15899,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.72,120.0,lcd display,1
+oppo,oppo f21 pro 5g,16490,8.0,android,128.0,4500,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.43,60.0,amoled display,0
+moto,moto g31,9590,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,50.0,3,13.0,1,6.4,60.0,amoled display,0
+itel,itel s24,10999,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,108.0,2,8.0,1,6.56,90.0,lcd display,1
+lg,lg wing,32999,8.0,android,128.0,4000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,32.0,1,6.8,60.0,amoled display,2
+realme,realme gt 2 5g,24999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.62,120.0,amoled display,2
+xiaomi,xiaomi redmi note 10t,12290,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,8.0,1,6.5,90.0,lcd display,0
+poco,poco m6 pro 5g 4gb ram,9999,4.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.79,90.0,lcd display,1
+infinix,infinix smart 8 hd,6289,3.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,13.0,2,8.0,1,6.6,90.0,lcd display,1
+oppo,oppo find n3 flip,74999,12.0,android,256.0,4300,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.8,120.0,amoled display,2
+iqoo,iqoo z7 pro 256gb,19999,8.0,android,256.0,4600,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.78,120.0,amoled display,2
+samsung,samsung galaxy a71,21494,8.0,android,128.0,4500,Yes,Yes,Yes,No,snapdragon,8.0,64.0,4,32.0,1,6.7,60.0,amoled display,0
+xiaomi,xiaomi mi 11 lite,11990,6.0,android,128.0,4250,Yes,Yes,Yes,No,snapdragon,8.0,64.0,3,16.0,1,6.55,90.0,amoled display,0
+iqoo,iqoo z6 lite 5g,13699,4.0,android,64.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.58,120.0,lcd display,1
+iqoo,iqoo z9s 12gb ram,23999,12.0,android,256.0,5500,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.77,120.0,amoled display,2
+oneplus,oneplus 7t pro,39999,8.0,android,256.0,4085,Yes,Yes,Yes,No,snapdragon,8.0,48.0,3,16.0,1,6.67,90.0,amoled display,2
+xiaomi,xiaomi redmi note 11 se,10490,6.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,4,13.0,1,6.43,90.0,amoled display,0
+iqoo,iqoo 11 5g,59999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,144.0,amoled display,2
+samsung,samsung galaxy a22 5g,18999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,8.0,1,6.6,90.0,tft display,0
+poco,poco m3,9999,6.0,android,64.0,6000,Yes,Yes,No,No,snapdragon,8.0,48.0,3,8.0,1,6.53,60.0,lcd display,0
+oppo,oppo f25 pro 256gb,23950,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,32.0,1,6.7,120.0,amoled display,2
+vivo,vivo v25 pro 5g 256gb,25990,12.0,android,256.0,4830,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,32.0,1,6.56,120.0,amoled display,2
+oppo,oppo a17k,7499,3.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,8.0,1,5.0,1,6.56,60.0,lcd display,1
+infinix,infinix note 30 5g 256gb,15999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,16.0,1,6.78,120.0,lcd display,2
+poco,poco f6 512gb,33999,12.0,android,512.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,20.0,1,6.67,120.0,amoled display,2
+realme,realme narzo n61 128gb,8498,6.0,android,128.0,5000,No,Yes,No,No,unisoc,8.0,32.0,1,5.0,1,6.74,90.0,lcd display,1
+samsung,samsung galaxy a52,14999,6.0,android,128.0,4500,Yes,Yes,Yes,No,snapdragon,8.0,64.0,4,32.0,1,6.5,90.0,amoled display,0
+samsung,samsung galaxy m12,9449,4.0,android,64.0,6000,Yes,Yes,No,No,samsung,8.0,48.0,4,8.0,1,6.5,90.0,lcd display,0
+realme,realme c51,7999,4.0,android,64.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,2,5.0,1,6.74,90.0,lcd display,1
+Other,hmd crest 5g,14499,6.0,android,128.0,5000,Yes,Yes,No,Yes,unisoc,8.0,50.0,2,50.0,1,6.67,90.0,oled display,2
+samsung,samsung galaxy a31,18990,6.0,android,128.0,5000,Yes,Yes,Yes,No,mediatek,8.0,48.0,4,20.0,1,6.4,60.0,amoled display,0
+itel,itel p55 plus,7999,8.0,android,256.0,5000,Yes,Yes,Yes,No,unisoc,8.0,50.0,1,8.0,1,6.6,90.0,lcd display,1
+iqoo,iqoo 9 se,30990,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.62,120.0,amoled display,2
+realme,realme x7 max,29999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,16.0,1,6.43,120.0,amoled display,0
+tecno,tecno camon 20 premier,24999,8.0,android,512.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.67,120.0,amoled display,2
+oppo,oppo a77s,16999,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+vivo,vivo y31 2021,16490,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,3,16.0,1,6.58,60.0,lcd display,0
+realme,realme 8i,10990,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,16.0,1,6.6,120.0,lcd display,0
+moto,moto g62 5g,10999,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.5,120.0,lcd display,0
+lava,lava agni 2 5g,21999,8.0,android,256.0,4700,Yes,Yes,No,Yes,mediatek,8.0,50.0,4,16.0,1,6.78,120.0,amoled display,2
+oppo,oppo f27 256gb,22999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,32.0,1,6.67,120.0,oled display,2
+realme,realme 9 pro,19999,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.6,120.0,lcd display,0
+oppo,oppo a57 2022,9999,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,13.0,2,8.0,1,6.56,60.0,lcd display,1
+samsung,samsung galaxy z flip 4 5g,57490,8.0,android,128.0,3700,Yes,Yes,Yes,Yes,snapdragon,8.0,12.0,2,10.0,1,6.7,120.0,amoled display,2
+vivo,vivo v21e 5g,19594,8.0,android,128.0,4000,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,32.0,1,6.44,60.0,amoled display,0
+vivo,vivo v21 5g,18994,8.0,android,128.0,4000,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,44.0,1,6.44,90.0,amoled display,0
+samsung,samsung galaxy a14 5g 128gb,13979,6.0,android,128.0,5000,Yes,Yes,No,Yes,samsung,8.0,50.0,3,13.0,1,6.6,90.0,lcd display,0
+iqoo,iqoo z3,19990,6.0,android,128.0,4400,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.58,120.0,lcd display,0
+iqoo,iqoo 9 pro 5g,64990,8.0,android,256.0,4700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,amoled display,2
+oneplus,oneplus nord n20 se,11999,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.56,60.0,lcd display,1
+moto,moto g54 256gb,20999,12.0,android,256.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.5,120.0,lcd display,2
+realme,realme 9 5g,12399,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,16.0,1,6.5,90.0,lcd display,0
+vivo,vivo y75 5g,20990,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.58,60.0,lcd display,0
+poco,poco m4 5g,9990,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.58,90.0,lcd display,1
+iqoo,iqoo z9 256gb,20499,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,2
+realme,realme p1 256gb,18488,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,2
+realme,realme gt neo 2 5g,22990,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,16.0,1,6.62,120.0,amoled display,2
+motorola,motorola edge 30,24999,6.0,android,128.0,4020,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.5,144.0,amoled display,2
+vivo,vivo v30e 256gb,27999,8.0,android,256.0,5500,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+realme,realme 8s 5g,15990,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,16.0,1,6.5,90.0,lcd display,0
+oneplus,oneplus 11r 256gb,39999,16.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.74,120.0,amoled display,2
+vivo,vivo y18t,9499,4.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+realme,realme c65 5g 8gb ram,12149,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,8.0,1,6.67,120.0,lcd display,1
+vivo,vivo x60 pro,54990,12.0,android,256.0,4200,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,32.0,1,6.56,120.0,amoled display,2
+xiaomi,xiaomi redmi 9,9999,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,13.0,2,5.0,1,6.53,60.0,lcd display,1
+realme,realme narzo 70 turbo 12gb ram,19999,12.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,oled display,2
+iqoo,iqoo z5 5g,18990,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.67,120.0,lcd display,2
+oppo,oppo reno12 pro 512gb,35799,12.0,android,512.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+realme,realme 8 5g,12999,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,16.0,1,6.5,90.0,lcd display,0
+vivo,vivo t2 pro 256gb,24999,8.0,android,256.0,4600,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.78,120.0,amoled display,2
+itel,itel a50,6099,3.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,8.0,1,5.0,1,6.6,60.0,lcd display,1
+realme,realme narzo 70x 5g 8gb ram,13288,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+infinix,infinix smart 7,8490,4.0,android,64.0,6000,No,Yes,No,No,unisoc,8.0,13.0,2,5.0,1,6.6,60.0,lcd display,1
+motorola,motorola razr 40 ultra,44249,8.0,android,256.0,3800,Yes,Yes,Yes,Yes,snapdragon,8.0,12.0,2,32.0,1,6.9,165.0,amoled display,2
+realme,realme narzo n53,8899,4.0,android,64.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,1,8.0,1,6.74,90.0,lcd display,1
+infinix,infinix note 30 5g,11999,4.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,16.0,1,6.78,120.0,lcd display,1
+itel,itel a50c,5199,2.0,android,32.0,4000,No,Yes,No,No,unisoc,8.0,8.0,1,5.0,1,6.6,60.0,lcd display,1
+lava,lava agni 3 5g 256gb,24999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.78,120.0,amoled display,2
+oppo,oppo a74 5g,18990,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,8.0,1,6.5,90.0,lcd display,0
+lava,lava storm 5g,12499,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.78,120.0,lcd display,1
+realme,realme p1 pro 256gb,19899,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.7,120.0,oled display,2
+vivo,vivo x70 pro 12gb ram,34399,12.0,android,256.0,4450,Yes,Yes,No,Yes,mediatek,8.0,50.0,4,32.0,1,6.56,120.0,amoled display,2
+samsung,samsung galaxy m52 5g 8gb ram,25749,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,32.0,1,6.7,120.0,amoled display,2
+xiaomi,xiaomi 12 pro 12gb ram,37499,12.0,android,256.0,4600,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.73,120.0,amoled display,2
+oppo,oppo f21s pro,18990,8.0,android,128.0,4500,Yes,Yes,No,No,snapdragon,8.0,64.0,3,32.0,1,6.43,90.0,amoled display,0
+xiaomi,xiaomi redmi 10 prime,8821,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,50.0,4,8.0,1,6.5,90.0,lcd display,0
+realme,realme narzo 30 pro,11990,6.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,16.0,1,6.5,120.0,lcd display,0
+oppo,oppo a96 4g,15999,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,2,16.0,1,6.59,90.0,lcd display,1
+infinix,infinix note 12 5g,9999,6.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.7,60.0,amoled display,1
+oppo,oppo a78 4g,14990,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,2,8.0,1,6.43,90.0,amoled display,0
+xiaomi,xiaomi redmi 13c 5g 6gb ram,10782,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,5.0,1,6.74,90.0,lcd display,1
+realme,realme 7 pro,14999,6.0,android,128.0,4500,Yes,Yes,No,No,snapdragon,8.0,64.0,4,32.0,1,6.4,60.0,amoled display,0
+vivo,vivo v23e 5g,14994,8.0,android,128.0,4050,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,44.0,1,6.44,60.0,amoled display,0
+poco,poco f4 5g 256gb,22189,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,20.0,1,6.67,120.0,amoled display,2
+iqoo,iqoo z6 pro,19990,6.0,android,128.0,4700,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.44,90.0,amoled display,0
+xiaomi,xiaomi redmi 12 5g 8gb ram,13999,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.79,90.0,lcd display,1
+samsung,samsung galaxy a15 5g 256gb,19900,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,13.0,1,6.5,90.0,amoled display,0
+Other,hmd crest max,16498,8.0,android,256.0,5000,Yes,Yes,No,Yes,unisoc,8.0,64.0,3,50.0,1,6.67,90.0,oled display,2
+infinix,infinix note 40 pro 5g racing edition,15999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,32.0,1,6.78,120.0,amoled display,2
+samsung,samsung galaxy m51 8gb ram,21999,8.0,android,128.0,7000,Yes,Yes,Yes,No,snapdragon,8.0,64.0,4,32.0,1,6.7,60.0,amoled display,0
+realme,realme 13 pro 256gb,21590,8.0,android,256.0,5200,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+realme,realme 9i 5g,10890,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,8.0,1,6.6,90.0,lcd display,0
+motorola,motorola razr 40,44950,8.0,android,256.0,4200,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,2,32.0,1,6.9,144.0,amoled display,2
+tecno,tecno spark 20c,7999,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+realme,realme 12x 8gb ram,13280,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+realme,realme gt 2 pro 5g 256gb,29890,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+oneplus,oneplus nord 3 5g 256gb,30300,16.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,16.0,1,6.74,120.0,amoled display,2
+realme,realme 6,12999,4.0,android,64.0,4300,Yes,Yes,No,No,mediatek,8.0,64.0,4,16.0,1,6.5,90.0,lcd display,0
+samsung,samsung galaxy a72,21999,8.0,android,128.0,5000,Yes,Yes,Yes,No,snapdragon,8.0,64.0,4,32.0,1,6.7,90.0,amoled display,2
+realme,realme narzo 50a,11490,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.5,60.0,lcd display,0
+oppo,oppo k10 5g,15899,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,2,8.0,1,6.56,90.0,lcd display,1
+poco,poco f4 5g 8gb ram,16450,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,20.0,1,6.67,120.0,amoled display,2
+poco,poco c51,8499,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,8.0,2,5.0,1,6.52,60.0,lcd display,1
+vivo,vivo y36,14999,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,2,16.0,1,6.64,90.0,lcd display,1
+lava,lava yuva 4,6999,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,50.0,1,8.0,1,6.56,90.0,lcd display,1
+xiaomi,xiaomi mi 10,44990,8.0,android,128.0,4780,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,4,20.0,1,6.67,90.0,amoled display,2
+oppo,oppo f19,16990,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,3,16.0,1,6.43,60.0,amoled display,0
+moto,moto e7 power,5870,2.0,android,32.0,5000,No,Yes,No,No,mediatek,8.0,13.0,2,5.0,1,6.5,60.0,lcd display,1
+poco,poco m5,8700,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.58,90.0,lcd display,0
+xiaomi,xiaomi redmi note 10 pro max 128gb,19999,6.0,android,128.0,5020,Yes,Yes,No,No,snapdragon,8.0,108.0,4,16.0,1,6.67,120.0,amoled display,2
+tecno,tecno camon 20,14999,8.0,android,256.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,3,32.0,1,6.67,60.0,amoled display,0
+poco,poco m4 pro 5g,11290,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.6,90.0,lcd display,1
+poco,poco m6 pro 5g 256gb,14999,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.79,90.0,lcd display,1
+realme,realme narzo 50,10490,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,16.0,1,6.6,120.0,lcd display,0
+realme,realme 8 pro,15999,6.0,android,128.0,4500,Yes,Yes,No,No,snapdragon,8.0,108.0,4,16.0,1,6.4,60.0,amoled display,0
+vivo,vivo y200 5g 256gb,19999,8.0,android,256.0,4800,Yes,Yes,No,Yes,snapdragon,8.0,64.0,2,16.0,1,6.67,120.0,amoled display,2
+iqoo,iqoo 12 5g anniversary edition,52999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,144.0,amoled display,2
+vivo,vivo y35 2022,18990,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,16.0,1,6.58,90.0,lcd display,0
+samsung,samsung galaxy f62 8gb ram,25999,8.0,android,128.0,7000,Yes,Yes,Yes,No,samsung,8.0,64.0,4,32.0,1,6.7,60.0,amoled display,0
+samsung,samsung galaxy m32 128gb,15399,6.0,android,128.0,6000,Yes,Yes,No,No,mediatek,8.0,64.0,4,20.0,1,6.4,90.0,amoled display,0
+moto,moto g71 5g,15999,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.4,60.0,amoled display,0
+oppo,oppo a12,6990,3.0,android,32.0,4230,No,Yes,No,No,mediatek,8.0,13.0,2,5.0,1,6.22,60.0,lcd display,0
+samsung,samsung galaxy m15 6gb ram,13499,6.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,13.0,1,6.5,90.0,amoled display,0
+oppo,oppo a3x 128gb,12499,4.0,android,128.0,5100,Yes,Yes,No,Yes,mediatek,8.0,8.0,1,5.0,1,6.67,120.0,lcd display,1
+vivo,vivo y28e 128gb,10999,4.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,13.0,2,5.0,1,6.56,90.0,lcd display,1
+oppo,oppo f19s,15799,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,3,16.0,1,6.43,60.0,amoled display,0
+realme,realme narzo n65 5g 6gb ram,11249,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,8.0,1,6.67,120.0,lcd display,1
+samsung,samsung galaxy f41,8599,6.0,android,64.0,6000,Yes,Yes,No,No,samsung,8.0,64.0,3,32.0,1,6.4,60.0,amoled display,0
+xiaomi,xiaomi mi 11x pro,24749,8.0,android,128.0,4520,Yes,Yes,No,Yes,snapdragon,8.0,108.0,3,20.0,1,6.67,120.0,amoled display,2
+xiaomi,xiaomi 11i hypercharge,19490,6.0,android,128.0,4500,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+moto,moto g72,15999,6.0,android,128.0,5000,Yes,Yes,Yes,No,mediatek,8.0,108.0,3,16.0,1,6.55,120.0,amoled display,0
+infinix,infinix hot 30 5g,11699,4.0,android,128.0,6000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,1,8.0,1,6.78,120.0,lcd display,1
+vivo,vivo x50,31990,8.0,android,128.0,4200,Yes,Yes,No,No,snapdragon,8.0,48.0,4,32.0,1,6.56,90.0,amoled display,0
+iqoo,iqoo 9,42990,8.0,android,128.0,4350,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.56,120.0,amoled display,2
+moto,moto g40 fusion,11690,4.0,android,64.0,6000,Yes,Yes,Yes,No,snapdragon,8.0,64.0,3,16.0,1,6.8,120.0,lcd display,1
+infinix,infinix hot 20 5g,9990,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.6,120.0,lcd display,1
+oppo,oppo a98,28999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,32.0,1,6.72,120.0,lcd display,2
+infinix,infinix hot 30i,11999,8.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,50.0,2,5.0,1,6.6,90.0,lcd display,1
+lava,lava yuva 5g,8698,4.0,android,64.0,5000,Yes,Yes,No,Yes,unisoc,8.0,50.0,2,8.0,1,6.52,90.0,lcd display,1
+lava,lava yuva 2 5g,9499,4.0,android,128.0,5000,Yes,Yes,No,Yes,unisoc,8.0,50.0,2,8.0,1,6.67,90.0,lcd display,1
+infinix,infinix note 12 pro,13990,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,16.0,1,6.7,60.0,amoled display,0
+poco,poco c65 6gb ram,7799,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.74,90.0,lcd display,1
+realme,realme p1 pro 12gb ram,20838,12.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.7,120.0,oled display,2
+lava,lava blaze x 8gb ram,16999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.67,120.0,amoled display,1
+Other,nubia red magic 3s 256gb,49999,12.0,android,256.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,1,16.0,1,6.65,90.0,amoled display,2
+samsung,samsung galaxy a22,18149,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,48.0,4,13.0,1,6.4,90.0,amoled display,0
+xiaomi,xiaomi redmi note 11s,10999,6.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,108.0,4,16.0,1,6.43,90.0,amoled display,0
+realme,realme 13 plus 5g 12gb ram,25499,12.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,oled display,2
+iqoo,iqoo 7 legend,36999,8.0,android,128.0,4000,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.62,120.0,amoled display,2
+realme,realme narzo 50 pro 5g,19990,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,16.0,1,6.4,90.0,amoled display,0
+samsung,samsung galaxy a53 5g 8gb ram,23990,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,64.0,4,32.0,1,6.5,120.0,amoled display,2
+tecno,tecno pop 8,7199,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,12.0,1,8.0,1,6.56,90.0,lcd display,1
+oppo,oppo reno11 256gb,26950,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+motorola,motorola edge 20 fusion,17990,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,32.0,1,6.7,90.0,oled display,2
+infinix,infinix smart 8 plus,7799,4.0,android,128.0,6000,Yes,Yes,No,No,mediatek,8.0,50.0,1,8.0,1,6.6,90.0,lcd display,1
+realme,realme narzo 20,11979,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,48.0,3,8.0,1,6.5,60.0,lcd display,0
+xiaomi,xiaomi mi 11 lite 8gb ram,10885,8.0,android,128.0,4250,Yes,Yes,Yes,No,snapdragon,8.0,64.0,3,16.0,1,6.55,90.0,amoled display,0
+oneplus,oneplus 12 512gb,66998,16.0,android,512.0,5400,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.82,120.0,oled display,2
+realme,realme 13 pro plus 12gb ram,25948,12.0,android,256.0,5200,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,oled display,2
+samsung,samsung galaxy s20 5g,49902,12.0,android,128.0,4000,Yes,Yes,Yes,Yes,samsung,8.0,12.0,3,10.0,1,6.2,120.0,amoled display,0
+poco,poco m3 pro 5g,11723,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,8.0,1,6.5,90.0,lcd display,0
+samsung,samsung galaxy f13,9999,4.0,android,64.0,6000,Yes,Yes,No,No,samsung,8.0,50.0,3,8.0,1,6.6,60.0,lcd display,0
+oppo,oppo a9 2020,14490,8.0,android,128.0,5000,No,Yes,No,No,snapdragon,8.0,48.0,4,16.0,1,6.5,60.0,lcd display,0
+iqoo,iqoo 3,22480,8.0,android,128.0,4440,Yes,Yes,No,No,snapdragon,8.0,48.0,4,16.0,1,6.44,60.0,amoled display,0
+samsung,samsung galaxy a32 4g,14990,6.0,android,128.0,5000,Yes,Yes,Yes,No,mediatek,8.0,64.0,4,20.0,1,6.4,90.0,amoled display,0
+realme,realme c61 6gb ram,7795,6.0,android,128.0,5000,No,Yes,No,No,unisoc,8.0,32.0,1,5.0,1,6.78,90.0,lcd display,1
+realme,realme c63 5g 6gb ram,10696,6.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,32.0,1,8.0,1,6.67,120.0,lcd display,1
+poco,poco f3 gt,26999,6.0,android,128.0,5065,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,2
+oneplus,oneplus 10 pro 256gb,71999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,32.0,1,6.7,120.0,amoled display,2
+vivo,vivo t1x 4g,9100,4.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,2,8.0,1,6.58,90.0,lcd display,1
+Other,nothing phone 1 256gb,25890,8.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,16.0,1,6.55,120.0,oled display,2
+moto,moto g73,17490,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,16.0,1,6.5,120.0,lcd display,1
+xiaomi,xiaomi redmi note 12 4g,18998,6.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,13.0,1,6.67,120.0,amoled display,0
+vivo,vivo x90 5g 12gb ram,47490,12.0,android,256.0,4810,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.78,120.0,amoled display,2
+tecno,tecno pop 9 8gb ram,11999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,1,8.0,1,6.67,120.0,lcd display,1
+realme,realme c12,6490,3.0,android,32.0,6000,No,Yes,No,No,mediatek,8.0,13.0,3,5.0,1,6.52,60.0,lcd display,0
+infinix,infinix note 11s,11899,6.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,16.0,1,6.95,120.0,lcd display,1
+micromax,micromax in note 1 128gb,6895,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,48.0,4,16.0,1,6.67,60.0,lcd display,0
+moto,moto g32,10999,4.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,16.0,1,6.5,90.0,lcd display,0
+infinix,infinix zero 5g 2023 turbo,19999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.78,120.0,lcd display,2
+itel,itel a05s,5549,2.0,android,32.0,4000,No,Yes,No,No,unisoc,8.0,5.0,1,5.0,1,6.6,60.0,lcd display,1
+poco,poco m6 256gb,13999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,5.0,1,6.74,90.0,lcd display,1
+realme,realme narzo 70 pro 256gb,18999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.67,120.0,amoled display,2
+samsung,samsung galaxy a06 128gb,11199,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.7,60.0,lcd display,1
+oppo,oppo reno 4 pro,22000,8.0,android,128.0,4000,Yes,Yes,Yes,No,snapdragon,8.0,48.0,4,32.0,1,6.5,90.0,amoled display,0
+vivo,vivo x70 pro plus,79990,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,4,32.0,1,6.78,120.0,amoled display,2
+motorola,motorola edge 20 pro,24999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,3,32.0,1,6.7,144.0,oled display,2
+moto,moto g51 5g,11590,4.0,android,64.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,13.0,1,6.8,120.0,lcd display,1
+realme,realme gt neo 3 5g 150w,25990,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+Other,nothing phone 2 256gb,38985,12.0,android,256.0,4700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,32.0,1,6.7,120.0,amoled display,2
+vivo,vivo v30 256gb,31490,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+lg,lg velvet,34999,6.0,android,128.0,4300,Yes,Yes,Yes,No,snapdragon,8.0,48.0,3,16.0,1,6.8,60.0,amoled display,0
+realme,realme c21,6490,3.0,android,32.0,5000,No,Yes,No,No,mediatek,8.0,13.0,3,5.0,1,6.5,60.0,lcd display,0
+oppo,oppo a53s 5g,14490,6.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,13.0,3,8.0,1,6.52,60.0,lcd display,0
+samsung,samsung galaxy m13 5g,11649,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,5.0,1,6.5,90.0,lcd display,1
+poco,poco x5 pro 256gb,19349,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+vivo,vivo v29 pro 12gb ram,34899,12.0,android,256.0,4600,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+xiaomi,xiaomi redmi note 13 12gb ram,17400,12.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+xiaomi,xiaomi redmi a3x 128gb,7430,4.0,android,128.0,5000,No,Yes,No,No,unisoc,8.0,8.0,2,5.0,1,6.71,90.0,lcd display,1
+oppo,oppo find x2 pro,74890,12.0,android,512.0,4260,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,32.0,1,6.7,120.0,oled display,2
+samsung,samsung galaxy f12,8484,4.0,android,64.0,6000,Yes,Yes,No,No,samsung,8.0,48.0,4,8.0,1,6.5,90.0,lcd display,0
+samsung,samsung galaxy a03s,7690,3.0,android,32.0,5000,No,Yes,No,No,mediatek,8.0,13.0,3,5.0,1,6.5,60.0,lcd display,0
+oneplus,oneplus nord ce 5g 256gb,23990,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,16.0,1,6.43,90.0,amoled display,2
+xiaomi,xiaomi mi 11t pro 5g 12gb ram,43999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+iqoo,iqoo z6 pro 8gb ram,24999,8.0,android,128.0,4700,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.44,90.0,amoled display,0
+samsung,samsung galaxy a25 5g 256gb,22999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,13.0,1,6.5,120.0,amoled display,2
+poco,poco m6 64gb,8999,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,5.0,1,6.74,90.0,lcd display,1
+realme,realme 5i,10990,4.0,android,64.0,5000,No,Yes,No,No,snapdragon,8.0,12.0,4,8.0,1,6.5,60.0,lcd display,0
+realme,realme x2 pro 6gb ram,15490,6.0,android,64.0,4000,Yes,Yes,Yes,No,snapdragon,8.0,64.0,4,16.0,1,6.5,90.0,amoled display,0
+samsung,samsung galaxy m31s 8gb ram,17499,8.0,android,128.0,6000,Yes,Yes,No,No,samsung,8.0,64.0,4,32.0,1,6.5,60.0,amoled display,0
+realme,realme x7 pro,29999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,4,32.0,1,6.55,120.0,amoled display,2
+realme,realme narzo 30,10990,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,48.0,3,16.0,1,6.5,90.0,lcd display,0
+tecno,tecno pova 5g,15999,8.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.9,120.0,lcd display,1
+tecno,tecno spark 10 pro,9499,8.0,android,128.0,5000,Yes,Yes,Yes,No,mediatek,8.0,50.0,3,32.0,1,6.78,90.0,lcd display,0
+realme,realme narzo 60 pro 5g,21225,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,100.0,2,16.0,1,6.7,120.0,amoled display,2
+infinix,infinix smart 8 128gb,7999,8.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,50.0,1,8.0,1,6.6,90.0,lcd display,1
+lava,lava yuva star,6899,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,13.0,1,5.0,1,6.75,60.0,lcd display,1
+oppo,oppo a3x 4g 128gb,9999,4.0,android,128.0,5100,Yes,Yes,No,No,snapdragon,8.0,8.0,1,5.0,1,6.67,90.0,lcd display,1
+asus,asus rog phone 3,55999,8.0,android,128.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,24.0,1,6.59,144.0,amoled display,2
+xiaomi,xiaomi mi 10i,18621,6.0,android,64.0,4820,Yes,Yes,No,Yes,snapdragon,8.0,108.0,4,16.0,1,6.67,120.0,lcd display,0
+vivo,vivo y51 2020,17900,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,3,16.0,1,6.58,60.0,lcd display,0
+samsung,samsung galaxy f23 5g 6gb ram,15499,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,8.0,1,6.6,120.0,tft display,0
+iqoo,iqoo 9t 5g,49999,8.0,android,128.0,4700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,amoled display,2
+tecno,tecno pova 5,11999,8.0,android,128.0,6000,Yes,Yes,Yes,No,mediatek,8.0,50.0,2,8.0,1,6.78,120.0,lcd display,1
+oppo,oppo find n2 flip,51499,8.0,android,256.0,4300,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,32.0,1,6.8,120.0,amoled display,2
+oneplus,oneplus 11 256gb,61999,16.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+samsung,samsung galaxy a34 256gb,29499,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,3,13.0,1,6.6,120.0,amoled display,2
+moto,moto g14,8499,4.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,2,8.0,1,6.5,60.0,lcd display,1
+itel,itel s23,8489,8.0,android,128.0,5000,No,Yes,No,No,unisoc,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+vivo,vivo v29e 256gb,26750,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,2,50.0,1,6.78,120.0,amoled display,2
+xiaomi,xiaomi redmi 9 prime,10499,4.0,android,64.0,5020,Yes,Yes,No,No,mediatek,8.0,13.0,4,8.0,1,6.53,60.0,lcd display,0
+poco,poco m2,10990,6.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,13.0,4,8.0,1,6.53,60.0,lcd display,0
+moto,moto g 5g,14490,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.7,60.0,lcd display,0
+moto,moto g9 power,7990,4.0,android,64.0,6000,Yes,Yes,Yes,No,snapdragon,8.0,64.0,3,16.0,1,6.8,60.0,lcd display,1
+moto,moto g82,13999,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.6,120.0,amoled display,0
+infinix,infinix zero 30 12gb ram,24999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,50.0,1,6.78,144.0,amoled display,2
+xiaomi,xiaomi redmi a3 6gb ram,7699,6.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,8.0,2,5.0,1,6.7,90.0,lcd display,1
+realme,realme narzo 70x 5g 6gb ram,11999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+realme,realme narzo 70 8gb ram,16999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,1
+infinix,infinix note 40 pro plus 5g racing edition,18999,12.0,android,256.0,4600,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,32.0,1,6.78,120.0,amoled display,2
+xiaomi,xiaomi redmi note 9 128gb,9990,4.0,android,128.0,5020,Yes,Yes,No,No,mediatek,8.0,48.0,4,13.0,1,6.53,60.0,lcd display,0
+vivo,vivo y51a,16999,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,3,16.0,1,6.58,60.0,lcd display,0
+samsung,samsung galaxy s21 256gb,27999,8.0,android,256.0,4000,Yes,Yes,Yes,Yes,samsung,8.0,12.0,3,10.0,1,6.2,120.0,amoled display,0
+realme,realme narzo 50 5g,15499,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,2,8.0,1,6.6,90.0,lcd display,1
+moto,moto e40,6745,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,48.0,3,8.0,1,6.5,90.0,lcd display,0
+xiaomi,xiaomi redmi 11 prime,9160,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.58,90.0,lcd display,0
+moto,moto g52,17999,4.0,android,64.0,5000,Yes,Yes,Yes,No,snapdragon,8.0,50.0,3,16.0,1,6.6,90.0,amoled display,0
+samsung,samsung galaxy a14,9980,4.0,android,64.0,5000,No,Yes,No,No,samsung,8.0,50.0,3,13.0,1,6.6,60.0,lcd display,0
+oppo,oppo a77 2022,15499,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.56,60.0,lcd display,1
+realme,realme narzo n55,9999,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,2,8.0,1,6.72,90.0,lcd display,1
+moto,moto g24 power 8gb ram,8999,8.0,android,128.0,6000,Yes,Yes,No,No,mediatek,8.0,50.0,2,16.0,1,6.56,90.0,lcd display,1
+itel,itel p55,7499,4.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+itel,itel color pro 5g 4gb ram,8399,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,8.0,1,6.6,90.0,lcd display,1
+oppo,oppo find x2,44999,12.0,android,256.0,4200,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,32.0,1,6.7,120.0,oled display,2
+realme,realme 6i,11180,4.0,android,64.0,4300,Yes,Yes,No,No,mediatek,8.0,48.0,4,16.0,1,6.5,90.0,lcd display,0
+realme,realme c15,7999,3.0,android,32.0,6000,Yes,Yes,No,No,mediatek,8.0,13.0,4,8.0,1,6.52,60.0,lcd display,0
+realme,realme 7i,11990,4.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,64.0,4,16.0,1,6.5,90.0,lcd display,0
+oneplus,oneplus 8t 256gb,27799,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,4,16.0,1,6.55,120.0,amoled display,2
+asus,asus rog phone 5,55999,8.0,android,128.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,24.0,1,6.78,144.0,amoled display,2
+realme,realme narzo 30 5g,11999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,16.0,1,6.5,90.0,lcd display,0
+oneplus,oneplus 9 pro 256gb,47999,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,4,16.0,1,6.7,120.0,amoled display,2
+oneplus,oneplus nord ce 5g 8gb ram,21999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,16.0,1,6.43,90.0,amoled display,0
+xiaomi,xiaomi redmi note 11t 5g 128gb,15490,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.6,90.0,lcd display,1
+xiaomi,xiaomi redmi 11 prime 5g,11999,4.0,android,64.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,8.0,1,6.58,90.0,lcd display,1
+realme,realme c33,6990,3.0,android,32.0,5000,No,Yes,No,No,unisoc,8.0,50.0,2,5.0,1,6.5,60.0,lcd display,1
+moto,moto g62 5g 8gb ram,18999,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.5,120.0,lcd display,0
+tecno,tecno spark 10 5g,12399,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+xiaomi,xiaomi redmi 13c 256gb,11499,8.0,android,256.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.74,90.0,lcd display,1
+oppo,oppo a59 5g 6gb ram,14799,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,13.0,2,8.0,1,6.56,90.0,lcd display,1
+vivo,vivo y28 5g 6gb ram,13899,6.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+Other,nothing phone 2a 12gb ram,26900,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,32.0,1,6.7,120.0,amoled display,2
+iqoo,iqoo 12 5g anniversary edition 512gb,57999,16.0,android,512.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,144.0,amoled display,2
+realme,realme narzo n65 5g 8gb ram,12499,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,8.0,1,6.67,120.0,lcd display,1
+realme,realme 13 plus 5g 256gb,24999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.67,120.0,oled display,2
+realme,realme x7,21999,6.0,android,128.0,4310,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,16.0,1,6.4,60.0,amoled display,0
+realme,realme narzo 20 pro,11990,6.0,android,64.0,4500,Yes,Yes,No,No,mediatek,8.0,48.0,4,16.0,1,6.5,90.0,lcd display,0
+oneplus,oneplus 9 256gb,31990,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.55,120.0,amoled display,2
+moto,moto g40 fusion 128gb,11990,6.0,android,128.0,6000,Yes,Yes,Yes,No,snapdragon,8.0,64.0,3,16.0,1,6.8,120.0,lcd display,1
+oneplus,oneplus nord 2 8gb ram,24999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.43,90.0,amoled display,0
+vivo,vivo x70 pro 256gb,33990,8.0,android,256.0,4450,Yes,Yes,No,Yes,mediatek,8.0,50.0,4,32.0,1,6.56,120.0,amoled display,2
+xiaomi,xiaomi redmi 10 prime 2022,10290,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,50.0,4,8.0,1,6.5,90.0,lcd display,0
+infinix,infinix note 11s 128gb,9799,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,16.0,1,6.95,120.0,lcd display,1
+tecno,tecno pova 3,11499,4.0,android,64.0,7000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.9,90.0,lcd display,1
+realme,realme c31,6990,3.0,android,32.0,5000,No,Yes,No,No,unisoc,8.0,13.0,3,5.0,1,6.5,60.0,lcd display,0
+vivo,vivo y33t,12999,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,16.0,1,6.58,90.0,lcd display,0
+iqoo,iqoo 9 pro 5g 12gb ram,69990,12.0,android,256.0,4700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,amoled display,2
+samsung,samsung galaxy m33 5g 8gb ram,18499,8.0,android,128.0,6000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,4,8.0,1,6.6,120.0,tft display,0
+realme,realme 9 8gb ram,15500,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,108.0,3,16.0,1,6.4,90.0,amoled display,0
+lava,lava blaze 5g,8998,4.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,50.0,3,8.0,1,6.5,90.0,lcd display,0
+iqoo,iqoo 11 5g 16gb ram,64999,16.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,144.0,amoled display,2
+samsung,samsung galaxy a14 5g 8gb ram,14990,8.0,android,128.0,5000,Yes,Yes,No,Yes,samsung,8.0,50.0,3,13.0,1,6.6,90.0,lcd display,0
+samsung,samsung galaxy f14 5g 6gb ram,12998,6.0,android,128.0,6000,Yes,Yes,No,Yes,samsung,8.0,50.0,2,13.0,1,6.6,90.0,lcd display,1
+itel,itel p40 plus,6801,4.0,android,128.0,7000,Yes,Yes,No,No,unisoc,8.0,13.0,2,8.0,1,6.8,90.0,lcd display,1
+iqoo,iqoo neo 7 pro 256gb,37999,12.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,amoled display,2
+samsung,samsung galaxy m34 256gb,20999,8.0,android,256.0,6000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,13.0,1,6.5,120.0,amoled display,2
+poco,poco f6 deadpool edition,37999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,20.0,1,6.67,120.0,amoled display,2
+realme,realme narzo 10,9999,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,48.0,4,16.0,1,6.5,60.0,lcd display,0
+poco,poco m2 4gb ram,6980,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,13.0,4,8.0,1,6.53,60.0,lcd display,0
+tecno,tecno pova 2,8819,4.0,android,64.0,7000,Yes,Yes,No,No,mediatek,8.0,48.0,4,8.0,1,6.95,60.0,lcd display,1
+xiaomi,xiaomi redmi note 11 pro plus 5g 256gb,23278,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+samsung,samsung galaxy m53 5g 8gb ram,22999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,4,32.0,1,6.7,120.0,amoled display,2
+realme,realme gt neo 3 5g 256gb,23580,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+tecno,tecno spark go 2024,6899,3.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,13.0,2,8.0,1,6.56,90.0,lcd display,1
+realme,realme 12 8gb ram,13999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,2,8.0,1,6.72,120.0,lcd display,1
+tecno,tecno camon 30 5g 512gb,26999,12.0,android,512.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+asus,asus rog phone 2,40999,8.0,android,128.0,6000,No,Yes,Yes,No,snapdragon,8.0,48.0,2,24.0,1,6.59,120.0,amoled display,2
+vivo,vivo x60 pro plus,55999,12.0,android,256.0,4200,Yes,Yes,No,Yes,snapdragon,8.0,50.0,4,32.0,1,6.56,120.0,amoled display,2
+xiaomi,xiaomi mi 10i 8gb ram,19940,8.0,android,128.0,4820,Yes,Yes,No,Yes,snapdragon,8.0,108.0,4,16.0,1,6.67,120.0,lcd display,2
+vivo,vivo y72 5g,14994,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,48.0,2,8.0,1,6.58,90.0,lcd display,1
+poco,poco x3 pro 8gb ram,13690,8.0,android,128.0,5160,Yes,Yes,No,No,snapdragon,8.0,48.0,4,20.0,1,6.67,120.0,lcd display,0
+samsung,samsung galaxy m32 5g,13990,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,4,13.0,1,6.5,60.0,tft display,0
+samsung,samsung galaxy a04s,8470,4.0,android,64.0,5000,Yes,Yes,No,No,samsung,8.0,50.0,3,5.0,1,6.5,90.0,lcd display,0
+xiaomi,xiaomi redmi note 11 pro plus 5g 8gb ram,17990,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+vivo,vivo x80 5g 256gb,49990,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.78,120.0,amoled display,2
+iqoo,iqoo neo 6 5g 256gb,31999,12.0,android,256.0,4700,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.62,120.0,amoled display,2
+xiaomi,xiaomi redmi k50i 256gb,14399,8.0,android,256.0,5080,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,16.0,1,6.6,144.0,lcd display,2
+samsung,samsung galaxy a23 5g 8gb ram,16249,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,4,8.0,1,6.6,120.0,lcd display,0
+iqoo,iqoo neo 7 256gb,33495,12.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,16.0,1,6.78,120.0,amoled display,2
+vivo,vivo y22 2022 4gb ram,12699,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.55,60.0,lcd display,1
+iqoo,iqoo z7s 5g 8gb ram,19999,8.0,android,128.0,4500,Yes,Yes,No,Yes,snapdragon,8.0,64.0,2,16.0,1,6.38,90.0,amoled display,0
+poco,poco c51 128gb,8999,6.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,8.0,2,5.0,1,6.52,60.0,lcd display,1
+xiaomi,xiaomi redmi 13c 5g 256gb,14999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,5.0,1,6.74,90.0,lcd display,1
+Other,ulefone armor 23 ultra,58277,12.0,android,512.0,5280,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,4,50.0,1,6.78,120.0,lcd display,2
+samsung,samsung galaxy m14 4g 128gb,11999,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,13.0,1,6.7,90.0,lcd display,0
+vivo,vivo y28s 6gb ram,15499,6.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+tecno,tecno phantom v flip 2,54999,8.0,android,256.0,4720,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,32.0,1,6.9,120.0,amoled display,2
+oppo,oppo reno12 pro manish malhotra limited edition,36999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,50.0,1,6.7,120.0,amoled display,2
+realme,realme x2 pro,20999,8.0,android,128.0,4000,Yes,Yes,Yes,No,snapdragon,8.0,64.0,4,16.0,1,6.5,90.0,amoled display,0
+oppo,oppo a52 4gb ram,9700,4.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,12.0,4,16.0,1,6.5,60.0,lcd display,0
+tecno,tecno camon 17,10999,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,3,16.0,1,6.8,90.0,lcd display,1
+oneplus,oneplus 9r 256gb,33999,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,4,16.0,1,6.55,120.0,amoled display,2
+motorola,motorola edge 20 fusion 8gb ram,17990,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,3,32.0,1,6.7,90.0,oled display,2
+infinix,infinix hot 11s,10999,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.78,90.0,lcd display,1
+vivo,vivo y21t,10990,4.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,8.0,1,6.58,90.0,lcd display,0
+xiaomi,xiaomi mi 11i 8gb ram,19949,8.0,android,128.0,5160,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+tecno,tecno pova 4,9099,8.0,android,128.0,6000,Yes,Yes,Yes,No,mediatek,8.0,50.0,2,8.0,1,6.82,90.0,lcd display,1
+realme,realme gt 2 5g 256gb,24990,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.62,120.0,amoled display,2
+vivo,vivo t1 pro 5g 8gb ram,17990,8.0,android,128.0,4700,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.44,90.0,amoled display,0
+oneplus,oneplus nord 2t 256gb,33999,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.43,90.0,amoled display,2
+Other,nothing phone 1 12gb ram,34990,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,2,16.0,1,6.55,120.0,oled display,2
+infinix,infinix zero 5g 2023,14990,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.78,120.0,lcd display,1
+moto,moto g13,9499,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.5,90.0,lcd display,0
+realme,realme c33 2023,8950,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,50.0,2,5.0,1,6.5,60.0,lcd display,1
+realme,realme c55 128gb,14590,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,2,8.0,1,6.72,90.0,lcd display,1
+realme,realme 11 pro 256gb,23999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,100.0,2,16.0,1,6.7,120.0,amoled display,2
+itel,itel p55 5g 128gb,8799,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+poco,poco c65 256gb,10999,8.0,android,256.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.74,90.0,lcd display,1
+poco,poco m6 6gb ram,10999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,5.0,1,6.74,90.0,lcd display,1
+lava,lava yuva 3,6999,4.0,android,64.0,5000,Yes,Yes,No,No,unisoc,8.0,13.0,1,5.0,1,6.5,90.0,lcd display,1
+vivo,vivo v30 12gb ram,37999,12.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,50.0,1,6.78,120.0,amoled display,2
+Other,nubia red magic 3,38999,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,1,16.0,1,6.65,90.0,amoled display,1
+oneplus,oneplus 7 pro 256gb,27999,8.0,android,256.0,4000,Yes,Yes,Yes,No,snapdragon,8.0,48.0,3,16.0,1,6.67,90.0,amoled display,2
+moto,moto e7 plus,6990,4.0,android,64.0,5000,No,Yes,No,No,snapdragon,8.0,48.0,2,8.0,1,6.5,60.0,lcd display,1
+micromax,micromax in note 1,7490,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,48.0,4,16.0,1,6.67,60.0,lcd display,0
+infinix,infinix hot 10s,10990,4.0,android,64.0,6000,No,Yes,No,No,mediatek,8.0,48.0,2,8.0,1,6.82,90.0,lcd display,1
+tecno,tecno spark 7 pro 6gb ram,7500,6.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,48.0,2,8.0,1,6.6,90.0,lcd display,1
+realme,realme x7 max 256gb,32999,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,16.0,1,6.43,120.0,amoled display,2
+realme,realme c21y,7990,3.0,android,32.0,5000,No,Yes,No,No,unisoc,8.0,13.0,3,5.0,1,6.5,60.0,lcd display,0
+xiaomi,xiaomi 11 lite ne 5g 8gb ram,16099,8.0,android,128.0,4250,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,20.0,1,6.55,90.0,amoled display,0
+samsung,samsung galaxy s10 lite 512gb,48859,8.0,android,512.0,4500,Yes,Yes,Yes,No,snapdragon,8.0,48.0,3,32.0,1,6.7,60.0,amoled display,2
+samsung,samsung galaxy a32 4g 8gb ram,19990,8.0,android,128.0,5000,Yes,Yes,Yes,No,mediatek,8.0,64.0,4,20.0,1,6.4,90.0,amoled display,0
+samsung,samsung galaxy s21 fe 256gb,22464,8.0,android,256.0,4500,Yes,Yes,Yes,Yes,samsung,8.0,12.0,3,32.0,1,6.4,120.0,amoled display,2
+realme,realme 9i 128gb,14999,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,16.0,1,6.6,90.0,lcd display,0
+realme,realme 9 pro 8gb ram,17994,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.6,120.0,lcd display,0
+samsung,samsung galaxy a33 5g 8gb ram,21999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,samsung,8.0,48.0,4,13.0,1,6.4,90.0,amoled display,0
+infinix,infinix note 12i,7999,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.7,60.0,amoled display,1
+realme,realme narzo 50 pro 5g 8gb ram,18990,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,16.0,1,6.4,90.0,amoled display,0
+realme,realme gt neo 3 5g 150w thor limited edition,21999,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+iqoo,iqoo z6 lite 5g 128gb,17999,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.58,120.0,lcd display,1
+xiaomi,xiaomi redmi note 12 6gb ram,14999,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,13.0,1,6.67,120.0,amoled display,0
+xiaomi,xiaomi redmi note 12 pro 5g 256gb,18799,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.67,120.0,amoled display,2
+oneplus,oneplus nord ce 3 5g 256gb,28998,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+realme,realme c53 128gb,9299,4.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,108.0,1,8.0,1,6.74,90.0,lcd display,1
+poco,poco m6 pro 5g 128gb,10979,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.79,90.0,lcd display,1
+lava,lava blaze pro 5g,11999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,8.0,1,6.78,120.0,lcd display,1
+realme,realme c67 5g 6gb ram,12495,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+vivo,vivo y28 5g 8gb ram,15999,8.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+realme,realme 12 pro 256gb,23899,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+realme,realme 12 pro plus 12gb ram,30199,12.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+itel,itel p55 8gb ram,7299,8.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+xiaomi,xiaomi redmi a3 128gb,8190,4.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,8.0,2,5.0,1,6.7,90.0,lcd display,1
+vivo,vivo y200e 5g 8gb ram,20999,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,16.0,1,6.67,120.0,amoled display,2
+vivo,vivo y18 128gb,9499,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+tecno,tecno spark 30c 128gb,10499,4.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,1,8.0,1,6.67,120.0,lcd display,1
+samsung,samsung galaxy s20 fe 256gb,26499,8.0,android,256.0,4500,Yes,Yes,Yes,No,samsung,8.0,12.0,3,32.0,1,6.5,120.0,amoled display,2
+infinix,infinix note 10 pro,16490,8.0,android,256.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,4,16.0,1,6.95,90.0,lcd display,2
+realme,realme narzo 30a,7990,3.0,android,32.0,6000,Yes,Yes,No,No,mediatek,8.0,13.0,2,8.0,1,6.5,60.0,lcd display,1
+oppo,oppo a54 128gb,11990,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,13.0,3,16.0,1,6.51,60.0,lcd display,0
+oppo,oppo a54 6gb ram,15990,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,13.0,3,16.0,1,6.51,60.0,lcd display,0
+asus,asus rog phone 5s 5g,55999,8.0,android,128.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,24.0,1,6.78,144.0,amoled display,2
+realme,realme gt 5g 256gb,27999,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,16.0,1,6.43,120.0,amoled display,2
+samsung,samsung galaxy a52s 5g 8gb ram,32499,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,4,32.0,1,6.5,120.0,amoled display,2
+realme,realme 8s 5g 8gb ram,17799,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,16.0,1,6.5,90.0,lcd display,0
+infinix,infinix note 12,11999,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,16.0,1,6.7,60.0,amoled display,1
+moto,moto g22,10999,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,4,16.0,1,6.5,90.0,lcd display,0
+iqoo,iqoo z6 5g 6gb ram,16749,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.58,120.0,lcd display,0
+samsung,samsung galaxy a73 5g 256gb,19439,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,4,32.0,1,6.7,120.0,amoled display,2
+realme,realme gt neo 3t 5g 8gb ram,22990,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,16.0,1,6.62,120.0,amoled display,2
+realme,realme gt neo 3t 5g 256gb,25999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,16.0,1,6.62,120.0,amoled display,2
+realme,realme 10 pro 5g 8gb ram,19850,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,108.0,2,16.0,1,6.72,120.0,lcd display,2
+vivo,vivo v27 pro 12gb ram,38990,12.0,android,256.0,4600,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+samsung,samsung galaxy m14 6gb ram,14990,6.0,android,128.0,6000,Yes,Yes,No,Yes,samsung,8.0,50.0,3,13.0,1,6.6,90.0,lcd display,0
+tecno,tecno camon 20 pro 256gb,19999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,32.0,1,6.67,120.0,amoled display,2
+realme,realme narzo 60 pro 5g 256gb,26999,12.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,100.0,2,16.0,1,6.7,120.0,amoled display,2
+samsung,samsung galaxy m34 8gb ram,19000,8.0,android,128.0,6000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,13.0,1,6.5,120.0,amoled display,0
+samsung,samsung galaxy z flip5 512gb,63800,8.0,android,512.0,3700,Yes,Yes,Yes,Yes,snapdragon,8.0,12.0,2,10.0,1,6.7,120.0,amoled display,2
+xiaomi,xiaomi redmi 12 5g 6gb ram,12299,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,2,8.0,1,6.79,90.0,lcd display,1
+samsung,samsung galaxy f34 8gb ram,21999,8.0,android,128.0,6000,Yes,Yes,Yes,Yes,samsung,8.0,50.0,3,13.0,1,6.5,120.0,amoled display,0
+xiaomi,xiaomi redmi note 12 pro 5g 12gb ram,20939,12.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.67,120.0,amoled display,2
+tecno,tecno pova 5 pro 256gb,15999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,16.0,1,6.78,120.0,lcd display,2
+lava,lava blaze 2 5g,10498,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+realme,realme 12 pro plus 256gb,25999,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+realme,realme 12x 6gb ram,12996,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+realme,realme c65 5g 6gb ram,10886,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,1,8.0,1,6.67,120.0,lcd display,1
+xiaomi,xiaomi mi 10 256gb,41990,8.0,android,256.0,4780,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,4,20.0,1,6.67,90.0,amoled display,2
+oppo,oppo f15 4gb ram,14099,4.0,android,128.0,4000,Yes,Yes,No,No,mediatek,8.0,48.0,4,16.0,1,6.4,60.0,amoled display,0
+samsung,samsung galaxy f41 128gb,14499,6.0,android,128.0,6000,Yes,Yes,No,No,samsung,8.0,64.0,3,32.0,1,6.4,60.0,amoled display,0
+xiaomi,xiaomi mi 10t 8gb ram,19499,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,20.0,1,6.67,144.0,lcd display,2
+moto,moto e7 power 64gb,6410,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,13.0,2,5.0,1,6.5,60.0,lcd display,1
+xiaomi,xiaomi redmi note 10 pro max 8gb ram,24499,8.0,android,128.0,5020,Yes,Yes,No,No,snapdragon,8.0,108.0,4,16.0,1,6.67,120.0,amoled display,2
+samsung,samsung galaxy m12 128gb,10899,6.0,android,128.0,6000,Yes,Yes,No,No,samsung,8.0,48.0,4,8.0,1,6.5,90.0,lcd display,0
+realme,realme c25s,9999,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,13.0,3,8.0,1,6.5,60.0,lcd display,0
+poco,poco m3 pro 5g 128gb,12999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,8.0,1,6.5,90.0,lcd display,0
+realme,realme 8i 128gb,12190,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,16.0,1,6.6,120.0,lcd display,0
+iqoo,iqoo z5 5g 256gb,21999,12.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.67,120.0,lcd display,2
+samsung,samsung galaxy f42 8gb ram,21999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,8.0,1,6.6,90.0,tft display,0
+iqoo,iqoo 3 256gb,40990,8.0,android,256.0,4440,Yes,Yes,No,No,snapdragon,8.0,48.0,4,16.0,1,6.44,60.0,amoled display,0
+xiaomi,xiaomi 11i hypercharge 8gb ram,19490,8.0,android,128.0,4500,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+oneplus,oneplus 9 rt 256gb,34999,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.62,120.0,amoled display,2
+xiaomi,xiaomi mi 11t pro 5g 256gb,41999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,3,16.0,1,6.67,120.0,amoled display,2
+tecno,tecno spark 9,6799,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,13.0,2,8.0,1,6.6,90.0,lcd display,1
+tecno,tecno spark 8c,6999,3.0,android,64.0,5000,No,Yes,Yes,No,unisoc,8.0,13.0,2,8.0,1,6.6,90.0,lcd display,1
+xiaomi,xiaomi redmi note 11s 128gb,11399,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,108.0,4,16.0,1,6.43,90.0,amoled display,0
+samsung,samsung galaxy s22 256gb,57499,8.0,android,256.0,3700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,10.0,1,6.1,120.0,amoled display,0
+realme,realme 9 pro plus 8gb ram,22999,8.0,android,128.0,4500,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.4,90.0,amoled display,0
+xiaomi,xiaomi redmi note 11 pro 8gb ram,20500,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,108.0,4,16.0,1,6.67,120.0,amoled display,2
+xiaomi,xiaomi redmi 10 128gb,9890,6.0,android,128.0,6000,Yes,Yes,No,No,snapdragon,8.0,50.0,2,5.0,1,6.7,60.0,lcd display,1
+poco,poco x4 pro 8gb ram,15890,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,2
+poco,poco x4 pro 128gb,13950,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,0
+tecno,tecno spark 10c,7699,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,16.0,2,8.0,1,6.6,90.0,lcd display,1
+oneplus,oneplus 10r 256gb,42999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+oneplus,oneplus nord ce 2 lite 5g 8gb ram,17999,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.59,120.0,lcd display,0
+samsung,samsung galaxy z flip 4 5g bespoke edition,97999,8.0,android,256.0,3700,Yes,Yes,Yes,Yes,snapdragon,8.0,12.0,2,10.0,1,6.7,120.0,amoled display,2
+tecno,tecno pova neo 5g,9499,4.0,android,128.0,6000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.8,120.0,lcd display,1
+samsung,samsung galaxy s23 plus 5g 512gb,104999,8.0,android,512.0,4700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,12.0,1,6.6,120.0,amoled display,2
+lava,lava blaze 5g 6gb ram,9299,6.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,50.0,3,8.0,1,6.5,90.0,lcd display,0
+xiaomi,xiaomi redmi note 12 4g 128gb,12499,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,13.0,1,6.67,120.0,amoled display,0
+realme,realme narzo 60 5g 256gb,19999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.43,90.0,amoled display,0
+realme,realme c53 6gb ram,11999,6.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,108.0,1,8.0,1,6.74,90.0,lcd display,1
+vivo,vivo y17s 128gb,12274,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.56,60.0,lcd display,1
+vivo,vivo v29 256gb,34990,12.0,android,256.0,4600,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+oppo,oppo a18 128gb,10499,4.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,8.0,2,5.0,1,6.56,90.0,lcd display,1
+tecno,tecno spark go 2024 128gb,7399,4.0,android,128.0,5000,No,Yes,No,No,unisoc,8.0,13.0,2,8.0,1,6.56,90.0,lcd display,1
+moto,moto g04 128gb,7999,8.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,16.0,1,5.0,1,6.56,90.0,lcd display,1
+realme,realme c61 128gb,8975,4.0,android,128.0,5000,No,Yes,No,No,unisoc,8.0,32.0,1,5.0,1,6.78,90.0,lcd display,1
+itel,itel a50 4gb ram,6499,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,8.0,1,5.0,1,6.6,60.0,lcd display,1
+itel,itel aura 05i,5399,2.0,android,32.0,4000,No,Yes,No,No,unisoc,8.0,5.0,1,5.0,1,6.56,60.0,lcd display,1
+lava,lava yuva 4 128gb,7499,4.0,android,128.0,5000,No,Yes,No,No,unisoc,8.0,50.0,1,8.0,1,6.56,90.0,lcd display,1
+oneplus,oneplus 6t 8gb ram,21999,8.0,android,128.0,3700,No,Yes,Yes,No,snapdragon,8.0,16.0,2,16.0,1,6.41,60.0,amoled display,0
+oneplus,oneplus 7 256gb,22000,8.0,android,256.0,3700,No,Yes,Yes,No,snapdragon,8.0,48.0,2,16.0,1,6.41,60.0,amoled display,0
+oneplus,oneplus 7t pro mclaren edition,44990,12.0,android,256.0,4085,Yes,Yes,Yes,No,snapdragon,8.0,48.0,3,16.0,1,6.67,90.0,amoled display,2
+realme,realme 6i 6gb ram,9999,6.0,android,64.0,4300,Yes,Yes,No,No,mediatek,8.0,48.0,4,16.0,1,6.5,90.0,lcd display,0
+xiaomi,xiaomi redmi 9 prime 128gb,13999,4.0,android,128.0,5020,Yes,Yes,No,No,mediatek,8.0,13.0,4,8.0,1,6.53,60.0,lcd display,0
+realme,realme 7 pro 8gb ram,18590,8.0,android,128.0,4500,Yes,Yes,No,No,snapdragon,8.0,64.0,4,32.0,1,6.4,60.0,amoled display,0
+poco,poco x3 8gb ram,14990,8.0,android,128.0,6000,Yes,Yes,No,No,snapdragon,8.0,64.0,4,20.0,1,6.67,120.0,lcd display,0
+vivo,vivo v20 256gb,27990,8.0,android,256.0,4000,Yes,Yes,No,No,snapdragon,8.0,64.0,3,44.0,1,6.44,60.0,amoled display,0
+moto,moto g30,10999,4.0,android,64.0,5000,Yes,Yes,Yes,No,snapdragon,8.0,64.0,4,13.0,1,6.5,90.0,lcd display,0
+realme,realme c25,7999,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,13.0,3,8.0,1,6.5,60.0,lcd display,0
+iqoo,iqoo z3 8gb ram,20999,8.0,android,128.0,4400,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.58,120.0,lcd display,0
+oneplus,oneplus nord 2 256gb,20980,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.43,90.0,amoled display,2
+oppo,oppo reno6 pro 5g diwali edition,46980,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,4,32.0,1,6.55,90.0,amoled display,2
+realme,realme gt neo 2 5g 256gb,26999,12.0,android,256.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,16.0,1,6.62,120.0,amoled display,2
+realme,realme c25y 64gb,7990,4.0,android,64.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,3,8.0,1,6.5,60.0,lcd display,0
+oneplus,oneplus nord 2 pac man edition,29992,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.43,90.0,amoled display,2
+xiaomi,xiaomi redmi note 10s 8gb ram,12999,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,4,13.0,1,6.43,60.0,amoled display,0
+nokia,nokia g21,6824,4.0,android,64.0,5050,Yes,Yes,Yes,No,unisoc,8.0,50.0,3,8.0,1,6.5,90.0,lcd display,0
+oppo,oppo a76,15999,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,13.0,2,8.0,1,6.56,90.0,lcd display,1
+moto,moto g42,9999,4.0,android,64.0,5000,Yes,Yes,Yes,No,snapdragon,8.0,50.0,3,16.0,1,6.4,60.0,amoled display,0
+samsung,samsung galaxy f13 128gb,16999,4.0,android,128.0,6000,Yes,Yes,No,No,samsung,8.0,50.0,3,8.0,1,6.6,60.0,lcd display,0
+samsung,samsung galaxy m13 5g 128gb,15999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,5.0,1,6.5,90.0,lcd display,1
+oppo,oppo a57e,13989,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,13.0,2,8.0,1,6.56,60.0,lcd display,1
+realme,realme 10 128gb,13850,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,16.0,1,6.4,90.0,amoled display,0
+poco,poco x5 256gb,23999,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,13.0,1,6.67,120.0,amoled display,2
+vivo,vivo t2x 6gb ram,12999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.58,60.0,lcd display,1
+infinix,infinix smart 7 hd,6199,2.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,8.0,2,5.0,1,6.6,60.0,lcd display,1
+realme,realme 11 pro 12gb ram,27999,12.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,100.0,2,16.0,1,6.7,120.0,amoled display,2
+xiaomi,xiaomi redmi 12 6gb ram,9420,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.79,90.0,lcd display,1
+xiaomi,xiaomi redmi 13c 6gb ram,8499,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.74,90.0,lcd display,1
+vivo,vivo x100 512gb,67999,16.0,android,512.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.78,120.0,amoled display,2
+tecno,tecno spark 20 256gb,11499,8.0,android,256.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,32.0,1,6.6,90.0,lcd display,1
+lava,lava yuva 3 128gb,6699,4.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,13.0,1,5.0,1,6.5,90.0,lcd display,1
+itel,itel p55t,6999,4.0,android,128.0,6000,Yes,Yes,No,No,unisoc,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+realme,realme 12 pro 12gb ram,24999,12.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+tecno,tecno pova 6 pro 12gb ram,21999,12.0,android,256.0,6000,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,32.0,1,6.78,120.0,amoled display,2
+lava,lava blaze x 6gb ram,15999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.67,120.0,amoled display,1
+vivo,vivo y28s 8gb ram,16999,8.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+Other,doogee blade 10 pro,23369,6.0,android,256.0,5150,No,No,Yes,Yes,unisoc,8.0,50.0,1,8.0,1,6.56,90.0,lcd display,1
+itel,itel zeno 10 4gb ram,6499,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,8.0,1,5.0,1,6.6,60.0,lcd display,1
+Other,nubia red magic 3s,39999,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,1,16.0,1,6.65,90.0,amoled display,1
+oneplus,oneplus 8 pro 256gb,53999,12.0,android,256.0,4510,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,4,16.0,1,6.78,120.0,amoled display,2
+poco,poco m2 pro 128gb,12990,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,4,16.0,1,6.67,60.0,lcd display,0
+oppo,oppo a52 8gb ram,20990,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,12.0,4,16.0,1,6.5,60.0,lcd display,0
+realme,realme c15 64gb,7990,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,13.0,4,8.0,1,6.52,60.0,lcd display,0
+samsung,samsung galaxy a12 128gb,12649,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,48.0,4,8.0,1,6.5,60.0,lcd display,0
+xiaomi,xiaomi redmi note 10 pro max,21999,6.0,android,64.0,5020,Yes,Yes,No,No,snapdragon,8.0,108.0,4,16.0,1,6.67,120.0,amoled display,0
+realme,realme narzo 30a 64gb,9999,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,13.0,2,8.0,1,6.5,60.0,lcd display,1
+realme,realme 8 6gb ram,14990,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,4,16.0,1,6.4,60.0,amoled display,0
+vivo,vivo x60 256gb,34990,12.0,android,256.0,4300,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,32.0,1,6.56,120.0,amoled display,2
+samsung,samsung galaxy f12 128gb,10499,4.0,android,128.0,6000,Yes,Yes,No,No,samsung,8.0,48.0,4,8.0,1,6.5,90.0,lcd display,0
+realme,realme 8 5g 8gb ram,13499,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,16.0,1,6.5,90.0,lcd display,0
+xiaomi,xiaomi mi 11x 8gb ram,19499,8.0,android,128.0,4520,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,20.0,1,6.67,120.0,amoled display,2
+oppo,oppo a53s 5g 8gb ram,13990,8.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,13.0,3,8.0,1,6.52,60.0,lcd display,0
+samsung,samsung galaxy m42 5g 8gb ram,18990,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,4,20.0,1,6.6,60.0,amoled display,0
+samsung,samsung galaxy f42,19999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,8.0,1,6.6,90.0,tft display,0
+micromax,micromax in 2b,5790,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,13.0,2,5.0,1,6.52,60.0,lcd display,1
+samsung,samsung galaxy m21 2021,11399,4.0,android,64.0,6000,Yes,Yes,No,No,samsung,8.0,48.0,3,20.0,1,6.4,60.0,amoled display,0
+poco,poco m3 4gb ram,9490,4.0,android,64.0,6000,Yes,Yes,No,No,snapdragon,8.0,48.0,3,8.0,1,6.53,60.0,lcd display,0
+xiaomi,xiaomi redmi note 10t 128gb,12499,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,8.0,1,6.5,90.0,lcd display,0
+samsung,samsung galaxy z flip 3 256gb,84999,8.0,android,256.0,3300,Yes,Yes,Yes,Yes,snapdragon,8.0,12.0,2,10.0,1,6.7,120.0,amoled display,2
+realme,realme gt master edition 5g 8gb ram,22490,8.0,android,128.0,4300,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,32.0,1,6.43,120.0,amoled display,2
+realme,realme c21y 64gb,8390,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,13.0,3,5.0,1,6.5,60.0,lcd display,0
+oppo,oppo a55 4g 128gb,11990,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,16.0,1,6.51,60.0,lcd display,0
+xiaomi,xiaomi redmi note 11t 5g 8gb ram,18490,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.6,90.0,lcd display,1
+infinix,infinix hot 12,9999,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.82,90.0,lcd display,1
+xiaomi,xiaomi redmi 10 power,11840,8.0,android,128.0,6000,Yes,Yes,No,No,snapdragon,8.0,50.0,2,5.0,1,6.71,60.0,lcd display,1
+vivo,vivo t1 6gb ram,12799,6.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.58,120.0,lcd display,0
+samsung,samsung galaxy s22 ultra 512gb,109999,12.0,android,512.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,108.0,4,40.0,1,6.8,120.0,amoled display,2
+realme,realme 9 5g se 8gb ram,18999,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,16.0,1,6.6,144.0,lcd display,2
+moto,moto e32,7490,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.5,90.0,lcd display,1
+samsung,samsung galaxy a23 8gb ram,16499,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,4,8.0,1,6.6,90.0,lcd display,0
+moto,moto g52 128gb,13999,6.0,android,128.0,5000,Yes,Yes,Yes,No,snapdragon,8.0,50.0,3,16.0,1,6.6,90.0,amoled display,0
+iqoo,iqoo z6 pro 256gb,19999,12.0,android,256.0,4700,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.44,90.0,amoled display,2
+motorola,motorola edge 30 8gb ram,26999,8.0,android,128.0,4020,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,32.0,1,6.5,144.0,amoled display,2
+infinix,infinix note 12 pro 4g,11990,8.0,android,256.0,5000,Yes,Yes,No,No,mediatek,8.0,108.0,2,16.0,1,6.7,60.0,amoled display,1
+iqoo,iqoo 9t 5g 256gb,54999,12.0,android,256.0,4700,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.78,120.0,amoled display,2
+infinix,infinix hot 12 pro 128gb,12999,8.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+moto,moto e22s,8439,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,16.0,2,8.0,1,6.5,90.0,lcd display,1
+xiaomi,xiaomi redmi 10 prime 2022 128gb,9999,6.0,android,128.0,6000,Yes,Yes,No,No,mediatek,8.0,50.0,4,8.0,1,6.5,90.0,lcd display,0
+oppo,oppo reno8 pro house of dragon edition,45999,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,32.0,1,6.7,120.0,amoled display,2
+vivo,vivo v27 pro 256gb,23999,8.0,android,256.0,4600,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+iqoo,iqoo z7 8gb ram,19999,8.0,android,128.0,4500,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,16.0,1,6.38,90.0,amoled display,0
+xiaomi,xiaomi redmi note 12 256gb,18999,8.0,android,256.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,48.0,3,13.0,1,6.67,120.0,amoled display,2
+vivo,vivo t2 8gb ram,17990,8.0,android,128.0,4500,Yes,Yes,No,Yes,snapdragon,8.0,64.0,2,16.0,1,6.38,90.0,amoled display,0
+vivo,vivo t2x 8gb ram,14999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.58,60.0,lcd display,1
+vivo,vivo y100a 256gb,23999,8.0,android,256.0,4500,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.38,90.0,amoled display,0
+infinix,infinix hot 30i 64gb,7999,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,50.0,2,5.0,1,6.6,90.0,lcd display,1
+samsung,samsung galaxy a14 128gb,10999,4.0,android,128.0,5000,No,Yes,No,No,samsung,8.0,50.0,3,13.0,1,6.6,60.0,lcd display,0
+realme,realme 11 256gb,21250,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,2,16.0,1,6.72,120.0,lcd display,2
+realme,realme narzo 60x 5g 6gb ram,14499,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.72,120.0,lcd display,1
+tecno,tecno camon 20 avocado art edition,15999,8.0,android,256.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,3,32.0,1,6.67,60.0,amoled display,0
+lava,lava blaze 2 5g 128gb,9299,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.56,90.0,lcd display,1
+samsung,samsung galaxy a05s 4gb ram,10999,4.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,13.0,1,6.7,90.0,lcd display,0
+lava,lava o2,8498,8.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,1,8.0,1,6.5,90.0,lcd display,1
+tecno,tecno spark 10 pro 256gb,14799,8.0,android,256.0,5000,Yes,Yes,Yes,No,mediatek,8.0,50.0,3,32.0,1,6.78,90.0,lcd display,2
+Other,oukitel wp52,38899,4.0,android,256.0,6500,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,3,8.0,1,6.6,60.0,lcd display,0
+Other,doogee blade 10 ultra,28299,8.0,android,256.0,5150,No,Yes,Yes,No,unisoc,8.0,50.0,1,8.0,1,6.56,90.0,lcd display,1
+samsung,samsung galaxy s10 512gb,34999,8.0,android,512.0,3400,Yes,Yes,Yes,No,samsung,8.0,12.0,3,10.0,1,6.1,60.0,amoled display,0
+oneplus,oneplus 7 pro 12gb ram,29999,12.0,android,256.0,4000,Yes,Yes,Yes,No,snapdragon,8.0,48.0,3,16.0,1,6.67,90.0,amoled display,2
+oneplus,oneplus 7t 256gb,38500,8.0,android,256.0,3800,Yes,Yes,Yes,No,snapdragon,8.0,48.0,3,16.0,1,6.55,90.0,amoled display,2
+samsung,samsung galaxy note 10 lite 8gb ram,39990,8.0,android,128.0,4500,Yes,Yes,Yes,No,samsung,8.0,12.0,3,32.0,1,6.7,60.0,amoled display,0
+iqoo,iqoo 3 5g,46990,12.0,android,256.0,4440,Yes,Yes,No,Yes,snapdragon,8.0,48.0,4,16.0,1,6.44,60.0,amoled display,0
+oppo,oppo a52,13999,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,12.0,4,16.0,1,6.5,60.0,lcd display,0
+oneplus,oneplus 8 256gb,32990,12.0,android,256.0,4300,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.55,90.0,amoled display,2
+samsung,samsung galaxy a21s 6gb ram,9999,6.0,android,64.0,5000,Yes,Yes,No,No,samsung,8.0,48.0,4,13.0,1,6.5,60.0,lcd display,0
+realme,realme narzo 10a 64gb,10999,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,12.0,3,5.0,1,6.5,60.0,lcd display,0
+asus,asus rog phone 3 256gb,65999,12.0,android,256.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,24.0,1,6.59,144.0,amoled display,2
+oppo,oppo a53 2020 128gb,11000,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,13.0,3,16.0,1,6.5,90.0,lcd display,0
+xiaomi,xiaomi redmi 9 128gb,10190,4.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,13.0,2,5.0,1,6.53,60.0,lcd display,1
+realme,realme 7 128gb,15490,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,4,16.0,1,6.5,90.0,lcd display,0
+xiaomi,xiaomi redmi note 9 pro max 128gb,16999,6.0,android,128.0,5020,Yes,Yes,No,No,snapdragon,8.0,64.0,4,32.0,1,6.67,60.0,lcd display,0
+vivo,vivo y20 6gb ram,16999,6.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,13.0,3,8.0,1,6.51,60.0,lcd display,0
+realme,realme narzo 20a 64gb,8990,4.0,android,64.0,5000,No,Yes,No,No,snapdragon,8.0,12.0,3,8.0,1,6.5,60.0,lcd display,0
+asus,asus rog phone 3 12gb ram,57999,12.0,android,128.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,24.0,1,6.59,144.0,amoled display,2
+samsung,samsung galaxy a21s 128gb,11999,6.0,android,128.0,5000,Yes,Yes,No,No,samsung,8.0,48.0,4,13.0,1,6.5,60.0,lcd display,0
+realme,realme c15 qualcomm edition 64gb,9490,4.0,android,64.0,6000,Yes,Yes,No,No,snapdragon,8.0,13.0,4,8.0,1,6.5,60.0,lcd display,0
+oppo,oppo a15 2gb ram,10990,2.0,android,32.0,4230,No,Yes,No,No,mediatek,8.0,13.0,3,5.0,1,6.52,60.0,lcd display,0
+poco,poco m3 128gb,10990,6.0,android,128.0,6000,Yes,Yes,No,No,snapdragon,8.0,48.0,3,8.0,1,6.53,60.0,lcd display,0
+oppo,oppo a15s 128gb,10434,4.0,android,128.0,4230,No,Yes,No,No,mediatek,8.0,13.0,3,8.0,1,6.52,60.0,lcd display,0
+realme,realme narzo 30 pro 128gb,16990,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,16.0,1,6.5,120.0,lcd display,0
+xiaomi,xiaomi redmi note 10 pro 128gb,19999,6.0,android,128.0,5020,Yes,Yes,No,No,snapdragon,8.0,64.0,4,16.0,1,6.67,120.0,amoled display,0
+samsung,samsung galaxy m42 5g,20909,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,4,20.0,1,6.6,60.0,amoled display,0
+realme,realme 8 8gb ram,14990,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,4,16.0,1,6.4,60.0,amoled display,0
+realme,realme 8 pro 8gb ram,17490,8.0,android,128.0,4500,Yes,Yes,No,No,snapdragon,8.0,108.0,4,16.0,1,6.4,60.0,amoled display,0
+xiaomi,xiaomi mi 11x pro 256gb,39999,8.0,android,256.0,4520,Yes,Yes,No,Yes,snapdragon,8.0,108.0,3,20.0,1,6.67,120.0,amoled display,2
+realme,realme 8 5g 64gb,12990,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,16.0,1,6.5,90.0,lcd display,0
+realme,realme c25s 128gb,8990,4.0,android,128.0,6000,Yes,Yes,No,No,mediatek,8.0,13.0,3,8.0,1,6.5,60.0,lcd display,0
+samsung,samsung galaxy f22 128gb,10490,6.0,android,128.0,6000,Yes,Yes,No,No,mediatek,8.0,48.0,4,13.0,1,6.4,90.0,amoled display,0
+tecno,tecno pova 2 128gb,13499,6.0,android,128.0,7000,Yes,Yes,No,No,mediatek,8.0,48.0,4,8.0,1,6.95,60.0,lcd display,1
+realme,realme gt master edition 5g 256gb,25999,8.0,android,256.0,4300,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,32.0,1,6.43,120.0,amoled display,2
+samsung,samsung galaxy m32 5g 8gb ram,21999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,4,13.0,1,6.5,60.0,tft display,0
+realme,realme 6 128gb,12990,6.0,android,128.0,4300,Yes,Yes,No,No,mediatek,8.0,64.0,4,16.0,1,6.5,90.0,lcd display,0
+realme,realme 5i 128gb,11999,4.0,android,128.0,5000,No,Yes,No,No,snapdragon,8.0,12.0,4,8.0,1,6.5,60.0,lcd display,0
+realme,realme 50a prime,8399,4.0,android,64.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,3,8.0,1,6.6,60.0,lcd display,0
+moto,moto g31 128gb,11290,6.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,50.0,3,13.0,1,6.4,60.0,amoled display,0
+tecno,tecno spark 9t,8999,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.6,60.0,lcd display,1
+xiaomi,xiaomi redmi note 11s 8gb ram,12999,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,108.0,4,16.0,1,6.43,90.0,amoled display,0
+poco,poco m4 pro 5g 128gb,13999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.6,90.0,lcd display,1
+realme,realme 9 pro plus 256gb,24499,8.0,android,256.0,4500,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.4,90.0,amoled display,0
+oneplus,oneplus nord ce 2 5g 8gb ram,16999,8.0,android,128.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,16.0,1,6.43,90.0,amoled display,0
+iqoo,iqoo 9 se 256gb,33899,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.62,120.0,amoled display,2
+poco,poco m4 pro 128gb,12490,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,3,16.0,1,6.43,90.0,amoled display,0
+oppo,oppo k10 8gb ram,15990,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,16.0,1,6.59,90.0,lcd display,0
+tecno,tecno spark 8c 4gb ram,7686,4.0,android,64.0,5000,No,Yes,Yes,No,unisoc,8.0,13.0,2,8.0,1,6.6,90.0,lcd display,1
+realme,realme narzo 50a prime 128gb,9990,4.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,3,8.0,1,6.6,60.0,lcd display,0
+oneplus,oneplus 10r 150w,43999,12.0,android,256.0,4500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+infinix,infinix hot 12 play,11999,4.0,android,64.0,6000,No,Yes,No,No,unisoc,8.0,13.0,2,8.0,1,6.82,90.0,lcd display,1
+moto,moto g82 8gb ram,14999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.6,120.0,amoled display,2
+vivo,vivo t1x 4g 128gb,14301,4.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,2,8.0,1,6.58,90.0,lcd display,1
+infinix,infinix hot 12 pro,10999,6.0,android,64.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+oneplus,oneplus 10t 256gb,41990,12.0,android,256.0,4800,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+oneplus,oneplus 10t 16gb ram,55999,16.0,android,256.0,4800,Yes,Yes,Yes,Yes,snapdragon,8.0,50.0,3,16.0,1,6.7,120.0,amoled display,2
+samsung,samsung galaxy z flip 4 5g 256gb,63990,8.0,android,256.0,3700,Yes,Yes,Yes,Yes,snapdragon,8.0,12.0,2,10.0,1,6.7,120.0,amoled display,2
+oppo,oppo a77 2022 128gb,11499,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.56,60.0,lcd display,1
+poco,poco m5 128gb,14499,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.58,90.0,lcd display,0
+xiaomi,xiaomi redmi 11 prime 128gb,12498,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.58,90.0,lcd display,0
+realme,realme c30s 64gb,7290,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,8.0,1,5.0,1,6.5,60.0,lcd display,1
+infinix,infinix hot 20 play,7720,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,13.0,2,8.0,1,6.82,90.0,lcd display,1
+moto,moto g32 128gb,14999,8.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,16.0,1,6.5,90.0,lcd display,0
+realme,realme c55 6gb ram,11000,6.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,2,8.0,1,6.72,90.0,lcd display,1
+moto,moto g13 128gb,8999,4.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.5,90.0,lcd display,0
+lava,lava blaze x1 5g,12499,6.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,50.0,3,8.0,1,6.5,90.0,lcd display,0
+xiaomi,xiaomi redmi 12c 4gb ram,9999,4.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,50.0,2,5.0,1,6.71,60.0,lcd display,1
+itel,itel a60s,6300,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,8.0,2,5.0,1,6.6,60.0,lcd display,1
+itel,itel a60s 128gb,6590,4.0,android,128.0,5000,No,Yes,No,No,unisoc,8.0,8.0,2,5.0,1,6.6,60.0,lcd display,1
+infinix,infinix hot 30 5g 8gb ram,13499,8.0,android,128.0,6000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,1,8.0,1,6.78,120.0,lcd display,1
+lava,lava yuva 2,6399,3.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,13.0,2,5.0,1,6.5,90.0,lcd display,1
+realme,realme 11x 5g 8gb ram,11559,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,2,8.0,1,6.72,120.0,lcd display,1
+realme,realme narzo n53 8gb ram,10999,8.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,1,8.0,1,6.74,90.0,lcd display,1
+lava,lava yuva 3 pro,9499,8.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,1,8.0,1,6.5,90.0,lcd display,1
+samsung,samsung galaxy a14 5g 4gb ram,12999,4.0,android,128.0,5000,Yes,Yes,No,Yes,samsung,8.0,50.0,3,13.0,1,6.6,90.0,lcd display,0
+realme,realme narzo n63 128gb,8999,4.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,1,8.0,1,6.74,90.0,lcd display,1
+tecno,tecno spark 20 pro 5g 256gb,16999,8.0,android,256.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,108.0,2,8.0,1,6.78,120.0,lcd display,2
+asus,asus rog phone,83999,8.0,android,128.0,4000,Yes,Yes,Yes,No,snapdragon,8.0,12.0,2,8.0,1,6.0,90.0,amoled display,0
+oneplus,oneplus 6t mclaren edition,39999,10.0,android,256.0,3700,No,Yes,Yes,No,snapdragon,8.0,16.0,2,16.0,1,6.41,60.0,amoled display,0
+Other,nubia red magic 3 256gb,49999,12.0,android,256.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,1,16.0,1,6.65,90.0,amoled display,2
+oppo,oppo a9 2020 4gb ram,12490,4.0,android,128.0,5000,No,Yes,No,No,snapdragon,8.0,48.0,4,16.0,1,6.5,60.0,lcd display,0
+realme,realme x2 pro 256gb,28990,12.0,android,256.0,4000,Yes,Yes,Yes,No,snapdragon,8.0,64.0,4,16.0,1,6.5,90.0,amoled display,2
+realme,realme narzo 10a,8999,3.0,android,32.0,5000,No,Yes,No,No,mediatek,8.0,12.0,3,5.0,1,6.5,60.0,lcd display,0
+nokia,nokia 5.3,10999,4.0,android,64.0,4000,No,Yes,Yes,No,snapdragon,8.0,13.0,4,8.0,1,6.55,60.0,lcd display,0
+oneplus,oneplus 8 8gb ram,30999,8.0,android,128.0,4300,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.55,90.0,amoled display,0
+samsung,samsung galaxy a51 8gb ram,22499,8.0,android,128.0,4000,Yes,Yes,Yes,No,samsung,8.0,48.0,4,32.0,1,6.5,60.0,amoled display,0
+oppo,oppo a12 64gb,7999,4.0,android,64.0,4230,No,Yes,No,No,mediatek,8.0,13.0,2,5.0,1,6.22,60.0,lcd display,0
+poco,poco m2 pro 6gb ram,11990,6.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,4,16.0,1,6.67,60.0,lcd display,0
+realme,realme 6 6gb ram,14490,6.0,android,64.0,4300,Yes,Yes,No,No,mediatek,8.0,64.0,4,16.0,1,6.5,90.0,lcd display,0
+vivo,vivo x50 256gb,32990,8.0,android,256.0,4200,Yes,Yes,No,No,snapdragon,8.0,48.0,4,32.0,1,6.56,90.0,amoled display,2
+xiaomi,xiaomi redmi note 9 6gb ram,12999,6.0,android,128.0,5020,Yes,Yes,No,No,mediatek,8.0,48.0,4,13.0,1,6.53,60.0,lcd display,0
+nokia,nokia 5.3 6gb ram,11999,6.0,android,64.0,4000,No,Yes,Yes,No,snapdragon,8.0,13.0,4,8.0,1,6.55,60.0,lcd display,0
+poco,poco m2 128gb,9990,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,13.0,4,8.0,1,6.53,60.0,lcd display,0
+xiaomi,xiaomi redmi note 9 pro max 8gb ram,19999,8.0,android,128.0,5020,Yes,Yes,No,No,snapdragon,8.0,64.0,4,32.0,1,6.67,60.0,lcd display,0
+oppo,oppo f17 8gb ram,18490,8.0,android,128.0,4015,Yes,Yes,No,No,snapdragon,8.0,16.0,4,16.0,1,6.44,60.0,amoled display,0
+realme,realme narzo 20a,9900,3.0,android,32.0,5000,No,Yes,No,No,snapdragon,8.0,12.0,3,8.0,1,6.5,60.0,lcd display,0
+realme,realme narzo 20 128gb,10990,4.0,android,128.0,6000,Yes,Yes,No,No,mediatek,8.0,48.0,3,8.0,1,6.5,60.0,lcd display,0
+realme,realme narzo 20 pro 128gb,17490,8.0,android,128.0,4500,Yes,Yes,No,No,mediatek,8.0,48.0,4,16.0,1,6.5,90.0,lcd display,0
+poco,poco x3 128gb,11999,6.0,android,128.0,6000,Yes,Yes,No,No,snapdragon,8.0,64.0,4,20.0,1,6.67,120.0,lcd display,0
+realme,realme 7i 128gb,8490,4.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,64.0,4,16.0,1,6.5,90.0,lcd display,0
+oppo,oppo a33 2020,7790,3.0,android,32.0,5000,Yes,Yes,No,No,snapdragon,8.0,13.0,3,8.0,1,6.5,90.0,lcd display,0
+realme,realme c15 qualcomm edition,9999,3.0,android,32.0,6000,Yes,Yes,No,No,snapdragon,8.0,13.0,4,8.0,1,6.5,60.0,lcd display,0
+xiaomi,xiaomi mi 10i 128gb,18990,6.0,android,128.0,4820,Yes,Yes,No,Yes,snapdragon,8.0,108.0,4,16.0,1,6.67,120.0,lcd display,2
+realme,realme c12 64gb,10999,4.0,android,64.0,6000,No,Yes,No,No,mediatek,8.0,13.0,3,5.0,1,6.52,60.0,lcd display,0
+realme,realme x7 8gb ram,23999,8.0,android,128.0,4310,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,16.0,1,6.4,60.0,amoled display,0
+xiaomi,xiaomi redmi note 10 128gb,10999,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,4,13.0,1,6.43,60.0,amoled display,0
+xiaomi,xiaomi redmi note 10 pro 8gb ram,15990,8.0,android,128.0,5020,Yes,Yes,No,No,snapdragon,8.0,64.0,4,16.0,1,6.67,120.0,amoled display,0
+oppo,oppo f19 pro 256gb,18994,8.0,android,256.0,4310,Yes,Yes,No,No,mediatek,8.0,48.0,4,16.0,1,6.43,60.0,amoled display,0
+asus,asus rog phone 5 256gb,63999,12.0,android,256.0,6000,Yes,Yes,Yes,Yes,snapdragon,8.0,64.0,3,24.0,1,6.78,144.0,amoled display,2
+samsung,samsung galaxy a52 8gb ram,21999,8.0,android,128.0,4500,Yes,Yes,Yes,No,snapdragon,8.0,64.0,4,32.0,1,6.5,90.0,amoled display,0
+realme,realme c21 64gb,8999,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,13.0,3,5.0,1,6.5,60.0,lcd display,0
+realme,realme c25 128gb,6899,4.0,android,128.0,6000,Yes,Yes,No,No,mediatek,8.0,13.0,3,8.0,1,6.5,60.0,lcd display,0
+iqoo,iqoo 7 256gb,25499,8.0,android,256.0,4400,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.62,120.0,amoled display,2
+iqoo,iqoo 7 12gb ram,26499,12.0,android,256.0,4400,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.62,120.0,amoled display,2
+tecno,tecno spark 7 pro,8499,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,48.0,2,8.0,1,6.6,90.0,lcd display,1
+vivo,vivo v21 5g 256gb,19994,8.0,android,256.0,4000,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,44.0,1,6.44,90.0,amoled display,2
+xiaomi,xiaomi redmi note 10s 128gb,14990,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,4,13.0,1,6.43,60.0,amoled display,0
+infinix,infinix hot 10s 6gb ram,9990,6.0,android,64.0,6000,No,Yes,No,No,mediatek,8.0,48.0,2,8.0,1,6.82,90.0,lcd display,1
+iqoo,iqoo z3 256gb,22990,8.0,android,256.0,4400,Yes,Yes,No,Yes,snapdragon,8.0,64.0,3,16.0,1,6.58,120.0,lcd display,2
+realme,realme narzo 30 128gb,12990,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,48.0,3,16.0,1,6.5,90.0,lcd display,0
+vivo,vivo y51a 6gb ram,17990,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,48.0,3,16.0,1,6.58,60.0,lcd display,0
+vivo,vivo y53s 4g,15490,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,3,16.0,1,6.58,60.0,lcd display,0
+samsung,samsung galaxy m21 2021 128gb,13999,6.0,android,128.0,6000,Yes,Yes,No,No,samsung,8.0,48.0,3,20.0,1,6.4,60.0,amoled display,0
+poco,poco f3 gt 256gb,24990,8.0,android,256.0,5065,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,2
+poco,poco f3 gt 8gb ram,28999,8.0,android,128.0,5065,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,16.0,1,6.67,120.0,amoled display,2
+samsung,samsung galaxy a22 5g 8gb ram,20999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,8.0,1,6.6,90.0,tft display,0
+realme,realme narzo 30 6gb ram,9999,6.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,48.0,3,16.0,1,6.5,90.0,lcd display,0
+samsung,samsung galaxy a03s 64gb,8999,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,13.0,3,5.0,1,6.5,60.0,lcd display,0
+realme,realme narzo 30 5g 64gb,15999,4.0,android,64.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,16.0,1,6.5,90.0,lcd display,0
+xiaomi,xiaomi redmi 10 prime 128gb,11390,6.0,android,128.0,6000,Yes,Yes,No,No,mediatek,8.0,50.0,4,8.0,1,6.5,90.0,lcd display,0
+realme,realme c25y,8299,4.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,3,8.0,1,6.5,60.0,lcd display,0
+realme,realme narzo 50a 128gb,9990,4.0,android,128.0,6000,Yes,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.5,60.0,lcd display,0
+realme,realme 6 8gb ram,13990,8.0,android,128.0,4300,Yes,Yes,No,No,mediatek,8.0,64.0,4,16.0,1,6.5,90.0,lcd display,0
+asus,asus rog phone 2 512gb,62999,12.0,android,512.0,6000,No,Yes,Yes,No,snapdragon,8.0,48.0,2,24.0,1,6.59,120.0,amoled display,2
+tecno,tecno camon 18,8999,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,48.0,2,48.0,1,6.8,90.0,lcd display,1
+lava,lava agni 5g,15990,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,64.0,4,16.0,1,6.78,90.0,lcd display,0
+infinix,infinix hot 11s 128gb,14999,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.78,90.0,lcd display,1
+vivo,vivo t1 8gb ram,18990,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.58,120.0,lcd display,0
+xiaomi,xiaomi redmi note 11 4g 128gb,14180,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,4,13.0,1,6.43,90.0,amoled display,0
+xiaomi,xiaomi redmi note 11 4g 6gb ram,11249,6.0,android,64.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,4,13.0,1,6.43,90.0,amoled display,0
+poco,poco m4 pro 5g 8gb ram,14999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,16.0,1,6.6,90.0,lcd display,1
+iqoo,iqoo 9 256gb,46990,12.0,android,256.0,4350,Yes,Yes,Yes,Yes,snapdragon,8.0,48.0,3,16.0,1,6.56,120.0,amoled display,2
+realme,realme narzo 50 128gb,12990,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,16.0,1,6.6,120.0,lcd display,0
+poco,poco m4 pro 8gb ram,10999,8.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,3,16.0,1,6.43,90.0,amoled display,0
+realme,realme 9i 4gb ram,12999,4.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,3,16.0,1,6.6,90.0,lcd display,0
+realme,realme c35 128gb,9049,4.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,3,8.0,1,6.6,60.0,lcd display,0
+realme,realme 9 5g 128gb,16490,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,3,16.0,1,6.5,90.0,lcd display,0
+iqoo,iqoo z6 5g 8gb ram,17999,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,50.0,3,16.0,1,6.58,120.0,lcd display,0
+realme,realme c31 64gb,7999,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,13.0,3,5.0,1,6.5,60.0,lcd display,0
+vivo,vivo y21g,10999,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,13.0,2,8.0,1,6.51,60.0,lcd display,1
+nokia,nokia g21 128gb,11249,6.0,android,128.0,5050,Yes,Yes,Yes,No,unisoc,8.0,50.0,3,8.0,1,6.5,90.0,lcd display,0
+poco,poco m4 5g 128gb,10999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.58,90.0,lcd display,1
+tecno,tecno spark 10,8290,8.0,android,128.0,5000,Yes,Yes,Yes,No,mediatek,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+realme,realme narzo 50 5g 128gb,15990,4.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,2,8.0,1,6.6,90.0,lcd display,1
+realme,realme narzo 50 5g 6gb ram,18990,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,2,8.0,1,6.6,90.0,lcd display,1
+infinix,infinix note 12 128gb,12999,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,16.0,1,6.7,60.0,amoled display,1
+moto,moto e32s,8880,3.0,android,32.0,5000,Yes,Yes,No,No,mediatek,8.0,16.0,3,8.0,1,6.5,90.0,lcd display,0
+moto,moto e32s 64gb,8999,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,16.0,3,8.0,1,6.5,90.0,lcd display,0
+tecno,tecno camon 19 pro 5g,15999,8.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,64.0,3,16.0,1,6.8,120.0,lcd display,2
+nokia,nokia g11 plus,13999,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,50.0,2,8.0,1,6.51,90.0,lcd display,1
+realme,realme c35 6gb ram,12490,6.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,3,8.0,1,6.6,60.0,lcd display,0
+vivo,vivo t1x 4g 6gb ram,11999,6.0,android,128.0,5000,Yes,Yes,No,No,snapdragon,8.0,50.0,2,8.0,1,6.58,90.0,lcd display,1
+tecno,tecno spark 9 128gb,9499,6.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,13.0,2,8.0,1,6.6,90.0,lcd display,1
+realme,realme 9i 5g 128gb,16999,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,8.0,1,6.6,90.0,lcd display,0
+oppo,oppo k10 5g 6gb ram,16499,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,48.0,2,8.0,1,6.56,90.0,lcd display,1
+realme,realme c30s,6670,2.0,android,32.0,5000,No,Yes,No,No,unisoc,8.0,8.0,1,5.0,1,6.5,60.0,lcd display,1
+realme,realme c33 64gb,7990,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,50.0,2,5.0,1,6.5,60.0,lcd display,1
+xiaomi,xiaomi redmi 11 prime 5g 128gb,12999,6.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,8.0,1,6.58,90.0,lcd display,1
+lava,lava blaze pro,8999,4.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,50.0,3,8.0,1,6.5,90.0,lcd display,0
+vivo,vivo y22 2022 128gb,19990,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.55,60.0,lcd display,1
+vivo,vivo v25 5g 256gb,23994,12.0,android,256.0,4500,Yes,Yes,No,Yes,mediatek,8.0,64.0,3,50.0,1,6.44,90.0,amoled display,2
+lava,lava yuva pro,6996,3.0,android,32.0,5000,No,Yes,No,No,mediatek,8.0,13.0,3,8.0,1,6.51,60.0,lcd display,0
+tecno,tecno spark 9 3gb ram,8999,3.0,android,64.0,5000,No,Yes,No,No,mediatek,8.0,13.0,2,8.0,1,6.6,90.0,lcd display,1
+realme,realme 10 pro plus 5g 8gb ram,23999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,16.0,1,6.7,120.0,amoled display,2
+realme,realme 10 pro plus 5g 256gb,19999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,108.0,3,16.0,1,6.7,120.0,amoled display,2
+samsung,samsung galaxy m32 prime edition 128gb,13999,6.0,android,128.0,6000,Yes,Yes,No,No,mediatek,8.0,64.0,4,20.0,1,6.4,90.0,amoled display,0
+samsung,samsung galaxy m32 prime edition,11370,4.0,android,64.0,6000,Yes,Yes,No,No,mediatek,8.0,64.0,4,20.0,1,6.4,90.0,amoled display,0
+xiaomi,xiaomi redmi note 12 pro 5g 8gb ram,18999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,16.0,1,6.67,120.0,amoled display,2
+infinix,infinix hot 20 5g 128gb,10990,6.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.6,120.0,lcd display,1
+infinix,infinix note 12i 2022,9999,4.0,android,64.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,2,8.0,1,6.7,90.0,amoled display,1
+samsung,samsung galaxy a04s 128gb,8999,4.0,android,128.0,5000,Yes,Yes,No,No,samsung,8.0,50.0,3,5.0,1,6.5,90.0,lcd display,0
+realme,realme 10 pro 5g coca cola edition,20990,8.0,android,128.0,5000,Yes,Yes,No,Yes,snapdragon,8.0,108.0,2,16.0,1,6.72,120.0,lcd display,2
+vivo,vivo v27 256gb,27749,12.0,android,256.0,4600,Yes,Yes,No,Yes,mediatek,8.0,50.0,3,50.0,1,6.78,120.0,amoled display,2
+realme,realme c33 2023 128gb,8999,4.0,android,128.0,5000,No,Yes,No,No,unisoc,8.0,50.0,2,5.0,1,6.5,60.0,lcd display,1
+lava,lava blaze 2,8999,6.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,13.0,2,8.0,1,6.5,90.0,lcd display,1
+xiaomi,xiaomi redmi 12c 128gb,9999,6.0,android,128.0,5000,No,Yes,No,No,mediatek,8.0,50.0,2,5.0,1,6.71,60.0,lcd display,1
+realme,realme narzo n55 128gb,12999,6.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,64.0,2,8.0,1,6.72,90.0,lcd display,1
+tecno,tecno spark 10 5g 128gb,13999,8.0,android,128.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+tecno,tecno spark 10 5g 256gb,14999,8.0,android,256.0,5000,Yes,Yes,No,Yes,mediatek,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+oppo,oppo a55 4g 4gb ram,10999,4.0,android,128.0,5000,Yes,Yes,No,No,mediatek,8.0,50.0,3,16.0,1,6.51,60.0,lcd display,0
+realme,realme narzo n53 128gb,9689,6.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,1,8.0,1,6.74,90.0,lcd display,1
+itel,itel s23 4gb ram,6599,4.0,android,128.0,5000,No,Yes,No,No,unisoc,8.0,50.0,2,8.0,1,6.6,90.0,lcd display,1
+infinix,infinix smart 7 128gb,8490,4.0,android,128.0,6000,No,Yes,No,No,unisoc,8.0,13.0,2,5.0,1,6.6,60.0,lcd display,1
+lava,lava blaze 5g 8gb ram,16349,8.0,android,128.0,5000,No,Yes,No,Yes,mediatek,8.0,50.0,3,8.0,1,6.5,90.0,lcd display,0
+lava,lava blaze 2 pro,7499,8.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,3,8.0,1,6.5,90.0,lcd display,0
+tecno,tecno spark 10 pro  moon explorer edition,11999,8.0,android,128.0,5000,Yes,Yes,Yes,No,mediatek,8.0,50.0,3,32.0,1,6.78,90.0,lcd display,2
+lava,lava o1,6999,4.0,android,64.0,5000,Yes,Yes,No,No,unisoc,8.0,13.0,2,5.0,1,6.56,90.0,lcd display,1
+realme,realme c51 128gb,8650,4.0,android,128.0,5000,Yes,Yes,No,No,unisoc,8.0,50.0,2,5.0,1,6.74,90.0,lcd display,1
+itel,itel a05s 64gb,5899,4.0,android,64.0,4000,No,Yes,No,No,unisoc,8.0,5.0,1,5.0,1,6.6,60.0,lcd display,1
+tecno,tecno spark go 2024 4gb ram,6899,4.0,android,64.0,5000,No,Yes,No,No,unisoc,8.0,13.0,2,8.0,1,6.56,90.0,lcd display,1
+lava,lava yuva 5g 128gb,9996,4.0,android,128.0,5000,Yes,Yes,No,Yes,unisoc,8.0,50.0,2,8.0,1,6.52,90.0,lcd display,1
+Other,ulefone armor 25t pro,56500,6.0,android,256.0,6500,Yes,Yes,Yes,Yes,mediatek,8.0,50.0,2,32.0,1,6.78,120.0,lcd display,2
+tecno,tecno pop 9 128gb,9999,4.0,android,128.0,5000,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,1,8.0,1,6.67,120.0,lcd display,1
+Other,oukitel wp50,34899,4.0,android,256.0,6500,Yes,Yes,Yes,Yes,mediatek,8.0,48.0,3,8.0,1,6.6,60.0,lcd display,0
+samsung,samsung galaxy note 20 ultra,104999,8.0,android,256.0,4500,Yes,Yes,Yes,No,samsung,8.0,108.0,3,10.0,1,6.9,120.0,amoled display,2
